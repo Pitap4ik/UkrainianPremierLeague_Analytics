@@ -1,0 +1,763 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,PK,PKatt,Season,Team
+3,2024-08-09,18:00,Premier League,Matchweek 2,Fri,Away,W,2.0,1.0,Veres Rivne,,,,4509.0,Vitaliy Buyalskyi,4-2-3-1,4-4-2,,Match Report,,,,,0,0,2025,Dynamo Kyiv
+5,2024-08-17,18:00,Premier League,Matchweek 3,Sat,Away,W,3.0,1.0,Karpaty Lviv,,,,6300.0,Heorhiy Bushchan,4-5-1,4-1-4-1,,Match Report,,,,,1,1,2025,Dynamo Kyiv
+8,2024-09-01,15:30,Premier League,Matchweek 5,Sun,Home,W,1.0,0.0,FC LNZ Cherkasy,,,,1789.0,Andriy Yarmolenko,4-3-2-1,3-4-3,Oleksandr Shandor,Match Report,,,,,1,1,2025,Dynamo Kyiv
+9,2024-09-14,15:30,Premier League,Matchweek 6,Sat,Away,W,2.0,0.0,Zorya Luhansk,,,,1788.0,Vitaliy Buyalskyi,4-2-3-1,4-4-2,Roman Blavatskiy,Match Report,,,,,0,0,2025,Dynamo Kyiv
+10,2024-09-18,18:00,Premier League,Matchweek 4,Wed,Home,W,3.0,1.0,Vorskla Poltava,,,,2076.0,Heorhiy Bushchan,4-2-3-1,4-3-3,Volodymyr Novohatnіj,Match Report,,,,,0,0,2025,Dynamo Kyiv
+11,2024-09-21,18:00,Premier League,Matchweek 7,Sat,Home,D,0.0,0.0,Рух,,,,1789.0,Vitaliy Buyalskyi,4-2-3-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2025,Dynamo Kyiv
+13,2024-09-29,18:00,Premier League,Matchweek 8,Sun,Away,W,3.0,0.0,FK Livyi Bereh,,,,1179.0,Vitaliy Buyalskyi,4-2-3-1,4-4-1-1,Andrii Kovalenko,Match Report,,,,,0,0,2025,Dynamo Kyiv
+15,2024-10-06,18:00,Premier League,Matchweek 9,Sun,Home,W,2.0,1.0,Kryvbas Kryvyi Rih,,,,1794.0,Vitaliy Buyalskyi,4-2-3-1,4-2-3-1,Mykola Balakin,Match Report,,,,,1,1,2025,Dynamo Kyiv
+16,2024-10-19,15:30,Premier League,Matchweek 10,Sat,Away,W,5.0,1.0,Obolon-Brovar Kyiv,,,,2400.0,Vitaliy Buyalskyi,4-2-3-1,4-3-3,Viktor Kopievskii,Match Report,,,,,1,1,2025,Dynamo Kyiv
+18,2024-10-27,18:00,Premier League,Matchweek 11,Sun,Home,D,1.0,1.0,Shakhtar,,,,3500.0,Vitaliy Buyalskyi,4-2-3-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2025,Dynamo Kyiv
+19,2024-11-03,18:00,Premier League,Matchweek 12,Sun,Home,W,5.0,2.0,FK Inhulets,,,,1741.0,Vitaliy Buyalskyi,4-4-2,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Dynamo Kyiv
+21,2024-11-10,18:00,Premier League,Matchweek 13,Sun,Home,W,2.0,1.0,FC Polissya Zhytomyr,,,,3443.0,Vitaliy Buyalskyi,4-1-4-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,1,1,2025,Dynamo Kyiv
+22,2024-11-23,15:30,Premier League,Matchweek 14,Sat,Home,W,3.0,1.0,Chornomorets Odesa,,,,1492.0,Vitaliy Buyalskyi,3-4-3,4-3-3,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Dynamo Kyiv
+24,2024-12-01,15:30,Premier League,Matchweek 15,Sun,Away,D,1.0,1.0,FK Kolos,,,,726.0,Vitaliy Buyalskyi,4-4-2,4-2-3-1,Roman Blavatskiy,Match Report,,,,,0,0,2025,Dynamo Kyiv
+25,2024-12-04,15:30,Premier League,Matchweek 1,Wed,Away,D,0.0,0.0,FC Oleksandriya,,,,1180.0,Vitaliy Buyalskyi,4-2-3-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2025,Dynamo Kyiv
+26,2024-12-08,18:00,Premier League,Matchweek 16,Sun,Home,W,3.0,0.0,FC Oleksandriya,,,,1733.0,Vitaliy Buyalskyi,4-2-3-1,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,Dynamo Kyiv
+28,2024-12-16,13:00,Premier League,Matchweek 17,Mon,Home,W,1.0,0.0,Veres Rivne,,,,480.0,Vitaliy Buyalskyi,4-1-4-1,4-4-2,Oleksandr Shandor,Match Report,,,,,0,0,2025,Dynamo Kyiv
+31,2025-02-23,18:00,Premier League,Matchweek 18,Sun,Home,W,2.0,0.0,Karpaty Lviv,,,,1461.0,Vitaliy Buyalskyi,4-3-3,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2025,Dynamo Kyiv
+0,2024-08-12,15:30,Premier League,Matchweek 2,Mon,Away,W,2.0,0.0,FC LNZ Cherkasy,,,,280.0,Kyrylo Kovalets,4-1-4-1,4-1-4-1,,Match Report,,,,,0,0,2025,FC Oleksandriya
+1,2024-08-17,13:30,Premier League,Matchweek 3,Sat,Away,W,2.0,1.0,Zorya Luhansk,,,,457.0,Kyrylo Kovalets,4-1-4-1,4-4-2,,Match Report,,,,,0,0,2025,FC Oleksandriya
+2,2024-08-24,13:00,Premier League,Matchweek 4,Sat,Home,W,4.0,3.0,Shakhtar,,,,1180.0,Kyrylo Kovalets,4-1-4-1,4-3-3,Vitalii Romanov,Match Report,,,,,1,1,2025,FC Oleksandriya
+3,2024-08-31,15:30,Premier League,Matchweek 5,Sat,Home,W,2.0,1.0,FK Kolos,,,,1108.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Klym Zabroda,Match Report,,,,,0,0,2025,FC Oleksandriya
+4,2024-09-13,18:00,Premier League,Matchweek 6,Fri,Away,D,0.0,0.0,Obolon-Brovar Kyiv,,,,1250.0,Kyrylo Kovalets,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2025,FC Oleksandriya
+5,2024-09-21,15:30,Premier League,Matchweek 7,Sat,Home,W,2.0,0.0,FK Livyi Bereh,,,,1018.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Denys Shurman,Match Report,,,,,0,0,2025,FC Oleksandriya
+6,2024-09-28,13:00,Premier League,Matchweek 8,Sat,Away,W,1.0,0.0,Kryvbas Kryvyi Rih,,,,480.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,FC Oleksandriya
+7,2024-10-05,15:30,Premier League,Matchweek 9,Sat,Home,D,1.0,1.0,Рух,,,,1180.0,Kyrylo Kovalets,4-1-4-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,FC Oleksandriya
+8,2024-10-19,13:00,Premier League,Matchweek 10,Sat,Home,W,1.0,0.0,Vorskla Poltava,,,,730.0,Artem Shabanov,4-1-4-1,4-3-3,Oleksandr Omelchenko,Match Report,,,,,0,0,2025,FC Oleksandriya
+9,2024-10-26,13:00,Premier League,Matchweek 11,Sat,Home,W,2.0,1.0,FK Inhulets,,,,861.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Volodymyr Novohatnіj,Match Report,,,,,0,1,2025,FC Oleksandriya
+10,2024-11-03,15:30,Premier League,Matchweek 12,Sun,Home,W,1.0,0.0,FC Polissya Zhytomyr,,,,1180.0,Artem Shabanov,4-1-4-1,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2025,FC Oleksandriya
+11,2024-11-09,15:30,Premier League,Matchweek 13,Sat,Home,W,3.0,0.0,Karpaty Lviv,,,,895.0,Artem Shabanov,4-1-4-1,4-1-4-1,Mykola Balakin,Match Report,,,,,2,2,2025,FC Oleksandriya
+12,2024-11-24,17:00,Premier League,Matchweek 14,Sun,Away,D,1.0,1.0,Veres Rivne,,,,1486.0,Artem Shabanov,4-1-4-1,4-4-2,Andrii Kovalenko,Match Report,,,,,0,0,2025,FC Oleksandriya
+13,2024-12-01,13:00,Premier League,Matchweek 15,Sun,Home,W,3.0,0.0,Chornomorets Odesa,,,,865.0,Kyrylo Kovalets,4-5-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2025,FC Oleksandriya
+14,2024-12-04,15:30,Premier League,Matchweek 1,Wed,Home,D,0.0,0.0,Dynamo Kyiv,,,,1180.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2025,FC Oleksandriya
+15,2024-12-08,18:00,Premier League,Matchweek 16,Sun,Away,L,0.0,3.0,Dynamo Kyiv,,,,1733.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,FC Oleksandriya
+16,2024-12-14,13:00,Premier League,Matchweek 17,Sat,Home,D,1.0,1.0,FC LNZ Cherkasy,,,,657.0,Kyrylo Kovalets,4-3-3,4-3-3,Denys Shurman,Match Report,,,,,0,0,2025,FC Oleksandriya
+17,2025-02-23,15:30,Premier League,Matchweek 18,Sun,Home,W,2.0,1.0,Zorya Luhansk,,,,,Artem Shabanov,4-1-4-1,4-4-2,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,FC Oleksandriya
+0,2024-08-04,15:30,Premier League,Matchweek 1,Sun,Away,W,5.0,0.0,Vorskla Poltava,,,,2632.0,Mykola Matviyenko,4-3-3,4-3-3,,Match Report,,,,,1,1,2025,Shakhtar Donetsk
+1,2024-08-11,18:00,Premier League,Matchweek 2,Sun,Home,L,0.0,1.0,FC Polissya Zhytomyr,,,,1185.0,Mykola Matviyenko,4-1-4-1,4-2-3-1,,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+2,2024-08-18,18:00,Premier League,Matchweek 3,Sun,Away,W,1.0,0.0,FK Livyi Bereh,,,,1279.0,Heorhiy Sudakov,4-3-3,4-2-3-1,,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+3,2024-08-24,13:00,Premier League,Matchweek 4,Sat,Away,L,3.0,4.0,FC Oleksandriya,,,,1180.0,Mykola Matviyenko,4-3-3,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+4,2024-09-14,18:00,Premier League,Matchweek 6,Sat,Home,W,5.0,2.0,Karpaty Lviv,,,,1319.0,Oleksandr Zubkov,4-1-4-1,4-1-4-1,Andrii Kovalenko,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+6,2024-09-23,18:00,Premier League,Matchweek 7,Mon,Home,W,4.0,0.0,Obolon-Brovar Kyiv,,,,958.0,Mykola Matviyenko,4-3-3,4-4-1-1,Roman Blavatskiy,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+7,2024-09-27,18:00,Premier League,Matchweek 8,Fri,Away,D,1.0,1.0,Veres Rivne,,,,3674.0,Mykola Matviyenko,4-3-3,4-4-2,Maksim Kozyryatskiy,Match Report,,,,,1,1,2025,Shakhtar Donetsk
+9,2024-10-06,15:30,Premier League,Matchweek 9,Sun,Home,W,5.0,1.0,FC LNZ Cherkasy,,,,1028.0,Mykola Matviyenko,4-3-2-1,4-2-3-1,Denys Shurman,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+10,2024-10-18,18:00,Premier League,Matchweek 10,Fri,Away,W,1.0,0.0,FK Kolos,,,,700.0,Mykola Matviyenko,4-1-4-1,4-2-3-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+12,2024-10-27,18:00,Premier League,Matchweek 11,Sun,Away,D,1.0,1.0,Dynamo Kyiv,,,,3500.0,Mykola Matviyenko,4-1-4-1,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+13,2024-11-02,18:00,Premier League,Matchweek 12,Sat,Home,W,2.0,1.0,Chornomorets Odesa,,,,876.0,Mykola Matviyenko,4-1-4-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+15,2024-11-10,15:30,Premier League,Matchweek 13,Sun,Home,W,3.0,1.0,Zorya Luhansk,,,,1380.0,Mykola Matviyenko,4-3-2-1,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,1,1,2025,Shakhtar Donetsk
+16,2024-11-23,18:00,Premier League,Matchweek 14,Sat,Home,W,6.0,0.0,FK Inhulets,,,,767.0,Oleksandr Zubkov,4-3-3,5-3-2,Oleksandr Kalyonov,Match Report,,,,,0,1,2025,Shakhtar Donetsk
+18,2024-12-01,18:00,Premier League,Matchweek 15,Sun,Home,D,1.0,1.0,Рух,,,,1280.0,Mykola Matviyenko,4-3-3,3-4-3,Viktor Kopievskii,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+19,2024-12-05,18:00,Premier League,Matchweek 16,Thu,Home,W,3.0,1.0,Vorskla Poltava,,,,645.0,Mykola Matviyenko,4-1-4-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+21,2024-12-15,18:00,Premier League,Matchweek 17,Sun,Away,L,0.0,1.0,FC Polissya Zhytomyr,,,,2100.0,Mykola Matviyenko,4-5-1,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2025,Shakhtar Donetsk
+0,2024-08-03,18:00,Premier League,Matchweek 1,Sat,Home,W,1.0,0.0,Chornomorets Odesa,,,,587.0,Dmytro Khomchenovskyi,4-1-4-1,4-1-4-1,,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+2,2024-08-11,15:30,Premier League,Matchweek 2,Sun,Away,L,0.0,3.0,Karpaty Lviv,,,,3500.0,Dmytro Khomchenovskyi,5-4-1,4-5-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+4,2024-08-18,15:30,Premier League,Matchweek 3,Sun,Away,W,2.0,0.0,Veres Rivne,,,,1587.0,Yuriy Vakulko,4-2-3-1,4-2-3-1,,Match Report,,,,,1,1,2025,Kryvbas Kryvyi Rih
+6,2024-08-25,18:00,Premier League,Matchweek 4,Sun,Home,D,1.0,1.0,FK Inhulets,,,,534.0,,4-3-3,4-3-3,Roman Blavatskiy,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+8,2024-09-15,15:30,Premier League,Matchweek 6,Sun,Away,W,1.0,0.0,FK Livyi Bereh,,,,1087.0,Yuriy Vakulko,4-2-3-1,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+9,2024-09-22,16:00,Premier League,Matchweek 7,Sun,Home,D,1.0,1.0,Vorskla Poltava,,,,600.0,Yuriy Vakulko,4-2-3-1,4-3-3,Oleksandr Shandor,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+10,2024-09-28,13:00,Premier League,Matchweek 8,Sat,Home,L,0.0,1.0,FC Oleksandriya,,,,480.0,Djihad Bizimana,4-2-3-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+11,2024-10-06,18:00,Premier League,Matchweek 9,Sun,Away,L,1.0,2.0,Dynamo Kyiv,,,,1794.0,Yuriy Vakulko,4-2-3-1,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+12,2024-10-20,18:00,Premier League,Matchweek 10,Sun,Away,W,1.0,0.0,Zorya Luhansk,,,,386.0,Yuriy Vakulko,4-3-3,4-4-2,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+13,2024-10-26,16:50,Premier League,Matchweek 11,Sat,Home,W,3.0,1.0,FC LNZ Cherkasy,,,,766.0,,4-1-4-1,5-3-2,Roman Blavatskiy,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+14,2024-11-04,15:30,Premier League,Matchweek 12,Mon,Home,D,1.0,1.0,Рух,,,,327.0,Yuriy Vakulko,4-1-4-1,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+15,2024-11-09,19:20,Premier League,Matchweek 13,Sat,Away,D,1.0,1.0,FK Kolos,,,,456.0,,4-1-4-1,4-1-4-1,Viktor Kopievskii,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+16,2024-11-24,13:00,Premier League,Matchweek 14,Sun,Away,W,1.0,0.0,Obolon-Brovar Kyiv,,,,720.0,Junior Dibango,4-1-4-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+17,2024-11-30,15:30,Premier League,Matchweek 15,Sat,Home,W,3.0,1.0,FC Polissya Zhytomyr,,,,565.0,Junior Dibango,4-1-4-1,4-3-3,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+18,2024-12-07,16:30,Premier League,Matchweek 16,Sat,Away,W,3.0,1.0,Chornomorets Odesa,,,,,Junior Dibango,4-1-4-1,4-1-4-1,Viktor Kopievskii,Match Report,,,,,1,1,2025,Kryvbas Kryvyi Rih
+19,2024-12-14,15:30,Premier League,Matchweek 17,Sat,Home,W,2.0,0.0,Karpaty Lviv,,,,593.0,Junior Dibango,4-1-4-1,4-3-3,Dmytro Panchyshyn,Match Report,,,,,1,1,2025,Kryvbas Kryvyi Rih
+20,2025-02-22,13:00,Premier League,Matchweek 18,Sat,Home,L,0.0,3.0,Veres Rivne,,,,,Junior Dibango,4-1-4-1,4-4-2,Viktor Kopievskii,Match Report,,,,,0,0,2025,Kryvbas Kryvyi Rih
+2,2024-08-11,18:00,Premier League,Matchweek 2,Sun,Away,W,1.0,0.0,Shakhtar,,,,1185.0,Ruslan Babenko,4-2-3-1,4-1-4-1,,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+3,2024-08-17,15:30,Premier League,Matchweek 3,Sat,Home,D,1.0,1.0,FK Inhulets,,,,1276.0,Ruslan Babenko,4-3-3,4-4-2,Oleksandr Kalyonov,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+4,2024-08-25,13:00,Premier League,Matchweek 4,Sun,Home,W,4.0,0.0,Obolon-Brovar Kyiv,,,,1300.0,Ruslan Babenko,4-1-4-1,4-1-4-1,,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+5,2024-08-31,18:00,Premier League,Matchweek 5,Sat,Away,W,4.0,1.0,Chornomorets Odesa,,,,,Ruslan Babenko,4-3-3,4-3-3,Oleksandr Afanasiev,Match Report,,,,,1,2,2025,FC Polissya Zhytomyr
+6,2024-09-15,18:00,Premier League,Matchweek 6,Sun,Home,W,2.0,1.0,Veres Rivne,,,,1450.0,Ruslan Babenko,4-1-4-1,4-4-2,Oleksandr Afanasiev,Match Report,,,,,1,1,2025,FC Polissya Zhytomyr
+7,2024-09-22,18:00,Premier League,Matchweek 7,Sun,Home,D,1.0,1.0,FC LNZ Cherkasy,,,,1471.0,Ruslan Babenko,4-3-3,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+8,2024-09-28,18:00,Premier League,Matchweek 8,Sat,Away,W,3.0,1.0,Karpaty Lviv,,,,2200.0,Serhii Chobotenko,4-3-3,4-3-3,Denys Reznikov,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+9,2024-10-06,13:00,Premier League,Matchweek 9,Sun,Home,W,2.0,1.0,Vorskla Poltava,,,,1450.0,Serhii Chobotenko,4-3-3,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+10,2024-10-19,18:00,Premier League,Matchweek 10,Sat,Home,D,0.0,0.0,FK Livyi Bereh,,,,1100.0,Serhii Chobotenko,4-3-2-1,4-4-2,Oleksandr Kalyonov,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+11,2024-10-25,18:00,Premier League,Matchweek 11,Fri,Home,D,1.0,1.0,FK Kolos,,,,980.0,Serhii Chobotenko,4-1-4-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+12,2024-11-03,15:30,Premier League,Matchweek 12,Sun,Away,L,0.0,1.0,FC Oleksandriya,,,,1180.0,Ruslan Babenko,4-1-4-1,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+13,2024-11-10,18:00,Premier League,Matchweek 13,Sun,Away,L,1.0,2.0,Dynamo Kyiv,,,,3443.0,Ruslan Babenko,4-1-4-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+14,2024-11-25,18:00,Premier League,Matchweek 14,Mon,Home,D,1.0,1.0,Zorya Luhansk,,,,1000.0,Ruslan Babenko,4-1-4-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+15,2024-11-30,15:30,Premier League,Matchweek 15,Sat,Away,L,1.0,3.0,Kryvbas Kryvyi Rih,,,,565.0,Oleksandr Nazarenko,4-3-3,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+16,2024-12-04,18:00,Premier League,Matchweek 1,Wed,Away,D,1.0,1.0,Рух,,,,580.0,Ruslan Babenko,5-3-2,4-4-2,Mykola Balakin,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+17,2024-12-09,18:00,Premier League,Matchweek 16,Mon,Home,L,0.0,1.0,Рух,,,,400.0,Ruslan Babenko,4-2-3-1,4-3-3,Ihor Paskhal,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+18,2024-12-15,18:00,Premier League,Matchweek 17,Sun,Home,W,1.0,0.0,Shakhtar,,,,2100.0,Ruslan Babenko,4-2-3-1,4-5-1,Vitalii Romanov,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+19,2025-02-22,15:30,Premier League,Matchweek 18,Sat,Away,W,1.0,0.0,FK Inhulets,,,,700.0,Serhii Chobotenko,4-1-4-1,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2025,FC Polissya Zhytomyr
+0,2024-08-11,13:00,Premier League,Matchweek 2,Sun,Away,W,4.0,0.0,Obolon-Brovar Kyiv,,,,1490.0,Denys Pidgurskyi,4-1-4-1,4-2-3-1,,Match Report,,,,,1,1,2025,Rukh
+1,2024-08-18,15:30,Premier League,Matchweek 3,Sun,Away,L,1.0,3.0,FC LNZ Cherkasy,,,,374.0,Denys Pidgurskyi,4-3-2-1,4-3-3,,Match Report,,,,,0,0,2025,Rukh
+2,2024-08-25,15:30,Premier League,Matchweek 4,Sun,Home,W,3.0,0.0,Zorya Luhansk,,,,1150.0,Denys Pidgurskyi,4-3-2-1,4-4-2,Oleksii Derevinskyi,Match Report,,,,,0,1,2025,Rukh
+3,2024-08-30,18:00,Premier League,Matchweek 5,Fri,Home,W,5.0,0.0,FK Inhulets,,,,950.0,Denys Pidgurskyi,4-1-4-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,Rukh
+4,2024-09-15,13:00,Premier League,Matchweek 6,Sun,Away,D,0.0,0.0,Vorskla Poltava,,,,1100.0,Denys Pidgurskyi,4-1-4-1,4-5-1,Mykola Balakin,Match Report,,,,,0,0,2025,Rukh
+5,2024-09-21,18:00,Premier League,Matchweek 7,Sat,Away,D,0.0,0.0,Dynamo Kyiv,,,,1789.0,Denys Pidgurskyi,4-1-4-1,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2025,Rukh
+6,2024-09-29,15:30,Premier League,Matchweek 8,Sun,Home,D,0.0,0.0,FK Kolos,,,,910.0,Denys Pidgurskyi,4-1-4-1,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2025,Rukh
+7,2024-10-05,15:30,Premier League,Matchweek 9,Sat,Away,D,1.0,1.0,FC Oleksandriya,,,,1180.0,Denys Pidgurskyi,4-1-4-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,1,1,2025,Rukh
+8,2024-10-21,18:00,Premier League,Matchweek 10,Mon,Home,L,0.0,1.0,Karpaty Lviv,,,,3300.0,Yuriy Klymchuk,4-3-3,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,Rukh
+9,2024-10-25,15:30,Premier League,Matchweek 11,Fri,Home,D,1.0,1.0,Chornomorets Odesa,,,,350.0,Roman Didyk,4-1-4-1,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2025,Rukh
+10,2024-11-04,15:30,Premier League,Matchweek 12,Mon,Away,D,1.0,1.0,Kryvbas Kryvyi Rih,,,,327.0,Denys Pidgurskyi,4-1-4-1,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Rukh
+11,2024-11-10,13:00,Premier League,Matchweek 13,Sun,Away,L,0.0,2.0,Veres Rivne,,,,1049.0,Denys Pidgurskyi,4-1-4-1,4-4-2,Oleksandr Omelchenko,Match Report,,,,,0,0,2025,Rukh
+12,2024-11-24,18:00,Premier League,Matchweek 14,Sun,Home,W,1.0,0.0,FK Livyi Bereh,,,,650.0,Roman Didyk,4-1-4-1,4-4-2,Denys Shurman,Match Report,,,,,1,1,2025,Rukh
+13,2024-12-01,18:00,Premier League,Matchweek 15,Sun,Away,D,1.0,1.0,Shakhtar,,,,1280.0,Yuriy Klymchuk,3-4-3,4-3-3,Viktor Kopievskii,Match Report,,,,,0,0,2025,Rukh
+14,2024-12-04,18:00,Premier League,Matchweek 1,Wed,Home,D,1.0,1.0,FC Polissya Zhytomyr,,,,580.0,Yuriy Klymchuk,4-4-2,5-3-2,Mykola Balakin,Match Report,,,,,0,0,2025,Rukh
+15,2024-12-09,18:00,Premier League,Matchweek 16,Mon,Away,W,1.0,0.0,FC Polissya Zhytomyr,,,,400.0,Yuriy Klymchuk,4-3-3,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2025,Rukh
+16,2024-12-15,15:30,Premier League,Matchweek 17,Sun,Home,L,1.0,3.0,Obolon-Brovar Kyiv,,,,500.0,Yuriy Klymchuk,4-1-4-1,4-1-4-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2025,Rukh
+17,2025-02-22,18:00,Premier League,Matchweek 18,Sat,Home,L,0.0,1.0,FC LNZ Cherkasy,,,,,Yuriy Klymchuk,3-4-3,4-2-3-1,Mykhailo Raida,Match Report,,,,,0,0,2025,Rukh
+0,2024-08-03,15:30,Premier League,Matchweek 1,Sat,Home,D,0.0,0.0,Karpaty Lviv,,,,1607.0,Ruslan Stepanyuk,4-4-2,4-3-3,Andrii Kovalenko,Match Report,,,,,0,0,2025,Veres Rivne
+1,2024-08-09,18:00,Premier League,Matchweek 2,Fri,Home,L,1.0,2.0,Dynamo Kyiv,,,,4509.0,Ruslan Stepanyuk,4-4-2,4-2-3-1,,Match Report,,,,,0,0,2025,Veres Rivne
+2,2024-08-18,15:30,Premier League,Matchweek 3,Sun,Home,L,0.0,2.0,Kryvbas Kryvyi Rih,,,,1587.0,Ruslan Stepanyuk,4-2-3-1,4-2-3-1,,Match Report,,,,,0,0,2025,Veres Rivne
+3,2024-08-26,18:00,Premier League,Matchweek 4,Mon,Away,W,1.0,0.0,FK Kolos,,,,486.0,Bohdan Kohut,4-4-2,4-2-3-1,,Match Report,,,,,0,0,2025,Veres Rivne
+4,2024-09-01,13:00,Premier League,Matchweek 5,Sun,Home,L,1.0,3.0,FK Livyi Bereh,,,,1617.0,Ruslan Stepanyuk,4-4-1-1,4-5-1,Mykhailo Raida,Match Report,,,,,0,1,2025,Veres Rivne
+5,2024-09-15,18:00,Premier League,Matchweek 6,Sun,Away,L,1.0,2.0,FC Polissya Zhytomyr,,,,1450.0,Ruslan Stepanyuk,4-4-2,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,Veres Rivne
+6,2024-09-22,13:00,Premier League,Matchweek 7,Sun,Home,D,2.0,2.0,FK Inhulets,,,,1008.0,Ruslan Stepanyuk,4-4-2,4-4-2,Dmitriy Kubryak,Match Report,,,,,1,1,2025,Veres Rivne
+7,2024-09-27,18:00,Premier League,Matchweek 8,Fri,Home,D,1.0,1.0,Shakhtar,,,,3674.0,Ruslan Stepanyuk,4-4-2,4-3-3,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Veres Rivne
+8,2024-10-05,13:00,Premier League,Matchweek 9,Sat,Home,W,2.0,1.0,Zorya Luhansk,,,,733.0,Dmytro Klyots,4-4-2,4-4-2,Anastasia Romaniuk,Match Report,,,,,0,0,2025,Veres Rivne
+9,2024-10-20,15:30,Premier League,Matchweek 10,Sun,Away,D,1.0,1.0,Chornomorets Odesa,,,,,Bohdan Kohut,4-4-2,4-2-3-1,Oleksandr Solovyan,Match Report,,,,,0,0,2025,Veres Rivne
+10,2024-10-27,15:30,Premier League,Matchweek 11,Sun,Home,D,2.0,2.0,Vorskla Poltava,,,,1368.0,Bohdan Kohut,4-2-2-2,4-4-2,Sofia Prychyna,Match Report,,,,,1,1,2025,Veres Rivne
+11,2024-11-04,13:00,Premier League,Matchweek 12,Mon,Away,D,0.0,0.0,Obolon-Brovar Kyiv,,,,350.0,Ruslan Stepanyuk,4-4-2,4-1-4-1,Ihor Paskhal,Match Report,,,,,0,0,2025,Veres Rivne
+12,2024-11-10,13:00,Premier League,Matchweek 13,Sun,Home,W,2.0,0.0,Рух,,,,1049.0,Ruslan Stepanyuk,4-4-2,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2025,Veres Rivne
+13,2024-11-24,17:00,Premier League,Matchweek 14,Sun,Home,D,1.0,1.0,FC Oleksandriya,,,,1486.0,Ruslan Stepanyuk,4-4-2,4-1-4-1,Andrii Kovalenko,Match Report,,,,,1,1,2025,Veres Rivne
+14,2024-11-30,13:00,Premier League,Matchweek 15,Sat,Away,W,2.0,1.0,FC LNZ Cherkasy,,,,224.0,Ruslan Stepanyuk,4-4-2,4-3-3,Klym Zabroda,Match Report,,,,,1,1,2025,Veres Rivne
+15,2024-12-07,18:00,Premier League,Matchweek 16,Sat,Away,L,0.0,5.0,Karpaty Lviv,,,,1600.0,Ruslan Stepanyuk,4-4-2,4-3-2-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Veres Rivne
+16,2024-12-16,13:00,Premier League,Matchweek 17,Mon,Away,L,0.0,1.0,Dynamo Kyiv,,,,480.0,Ruslan Stepanyuk,4-4-2,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2025,Veres Rivne
+17,2025-02-22,13:00,Premier League,Matchweek 18,Sat,Away,W,3.0,0.0,Kryvbas Kryvyi Rih,,,,,Valeriy Kucherov,4-4-2,4-1-4-1,Viktor Kopievskii,Match Report,,,,,0,0,2025,Veres Rivne
+0,2024-08-04,13:00,Premier League,Matchweek 1,Sun,Home,W,1.0,0.0,FK Livyi Bereh,,,,350.0,Denys Oliynyk,4-3-3,4-2-3-1,,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+1,2024-08-12,15:30,Premier League,Matchweek 2,Mon,Home,L,0.0,2.0,FC Oleksandriya,,,,280.0,Denys Oliynyk,4-1-4-1,4-1-4-1,,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+2,2024-08-18,15:30,Premier League,Matchweek 3,Sun,Home,W,3.0,1.0,Рух,,,,374.0,Denys Oliynyk,4-3-3,4-3-2-1,,Match Report,,,,,1,1,2025,FC LNZ Cherkasy
+3,2024-08-26,19:00,Premier League,Matchweek 4,Mon,Home,W,2.0,1.0,Karpaty Lviv,,,,357.0,Nazarii Muravskyi,3-4-3,4-1-4-1,,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+4,2024-09-01,15:30,Premier League,Matchweek 5,Sun,Away,L,0.0,1.0,Dynamo Kyiv,,,,1789.0,Nazarii Muravskyi,3-4-3◆,4-3-2-1,Oleksandr Shandor,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+5,2024-09-16,18:00,Premier League,Matchweek 6,Mon,Away,D,1.0,1.0,FK Kolos,,,,487.0,Nazarii Muravskyi,4-2-3-1,4-2-3-1,Oleh Kohut,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+6,2024-09-22,18:00,Premier League,Matchweek 7,Sun,Away,D,1.0,1.0,FC Polissya Zhytomyr,,,,1471.0,Vitalii Boiko,4-2-3-1,4-3-3,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+7,2024-09-28,15:30,Premier League,Matchweek 8,Sat,Home,D,1.0,1.0,Chornomorets Odesa,,,,170.0,Vitalii Boiko,4-2-3-1,4-2-3-1,Artem Mykhailiuk,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+8,2024-10-06,15:30,Premier League,Matchweek 9,Sun,Away,L,1.0,5.0,Shakhtar,,,,1028.0,Nazarii Muravskyi,4-2-3-1,4-3-2-1,Denys Shurman,Match Report,,,,,1,1,2025,FC LNZ Cherkasy
+9,2024-10-20,13:00,Premier League,Matchweek 10,Sun,Home,W,2.0,0.0,FK Inhulets,,,,391.0,Nazarii Muravskyi,5-3-2,4-5-1,Nazarii Dord,Match Report,,,,,0,1,2025,FC LNZ Cherkasy
+10,2024-10-26,16:50,Premier League,Matchweek 11,Sat,Away,L,1.0,3.0,Kryvbas Kryvyi Rih,,,,766.0,Nazarii Muravskyi,5-3-2,4-1-4-1,Roman Blavatskiy,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+11,2024-11-04,18:00,Premier League,Matchweek 12,Mon,Away,W,2.0,1.0,Zorya Luhansk,,,,472.0,Olivier Thill,4-3-3,4-1-4-1,Serhii Zadiran,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+12,2024-11-09,13:00,Premier League,Matchweek 13,Sat,Home,L,0.0,1.0,Obolon-Brovar Kyiv,,,,293.0,Nazarii Muravskyi,4-3-3,4-1-4-1,Dmitriy Kubryak,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+13,2024-11-23,13:00,Premier League,Matchweek 14,Sat,Away,L,0.0,2.0,Vorskla Poltava,,,,175.0,Muharrem Jashari,4-3-3,4-4-2,Mykhailo Raida,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+14,2024-11-30,13:00,Premier League,Matchweek 15,Sat,Home,L,1.0,2.0,Veres Rivne,,,,224.0,Olivier Thill,4-3-3,4-4-2,Klym Zabroda,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+15,2024-12-07,13:00,Premier League,Matchweek 16,Sat,Away,L,1.0,3.0,FK Livyi Bereh,,,,427.0,Olivier Thill,4-2-3-1,4-4-2,Oleksandr Solovyan,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+16,2024-12-14,13:00,Premier League,Matchweek 17,Sat,Away,D,1.0,1.0,FC Oleksandriya,,,,657.0,Nazarii Muravskyi,4-3-3,4-3-3,Denys Shurman,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+17,2025-02-22,18:00,Premier League,Matchweek 18,Sat,Away,W,1.0,0.0,Рух,,,,,Nazarii Muravskyi,4-2-3-1,3-4-3,Mykhailo Raida,Match Report,,,,,0,0,2025,FC LNZ Cherkasy
+0,2024-08-03,15:30,Premier League,Matchweek 1,Sat,Away,D,0.0,0.0,Veres Rivne,,,,1607.0,Ambrosiy Chachua,4-3-3,4-4-2,Andrii Kovalenko,Match Report,,,,,0,0,2025,Karpaty Lviv
+1,2024-08-11,15:30,Premier League,Matchweek 2,Sun,Home,W,3.0,0.0,Kryvbas Kryvyi Rih,,,,3500.0,Denys Miroshnichenko,4-5-1,5-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Karpaty Lviv
+2,2024-08-17,18:00,Premier League,Matchweek 3,Sat,Home,L,1.0,3.0,Dynamo Kyiv,,,,6300.0,Vladyslav Babohlo,4-1-4-1,4-5-1,,Match Report,,,,,0,0,2025,Karpaty Lviv
+3,2024-08-26,19:00,Premier League,Matchweek 4,Mon,Away,L,1.0,2.0,FC LNZ Cherkasy,,,,357.0,Volodymyr Adamyuk,4-1-4-1,3-4-3,,Match Report,,,,,0,0,2025,Karpaty Lviv
+4,2024-08-31,13:00,Premier League,Matchweek 5,Sat,Home,D,1.0,1.0,Vorskla Poltava,,,,,Pavlo Polehenko,4-1-4-1,4-3-3,Volodymyr Novohatnii,Match Report,,,,,0,0,2025,Karpaty Lviv
+5,2024-09-14,18:00,Premier League,Matchweek 6,Sat,Away,L,2.0,5.0,Shakhtar,,,,1319.0,Ambrosiy Chachua,4-1-4-1,4-1-4-1,Andrii Kovalenko,Match Report,,,,,0,0,2025,Karpaty Lviv
+6,2024-09-21,13:00,Premier League,Matchweek 7,Sat,Away,D,0.0,0.0,Chornomorets Odesa,,,,,Denys Miroshnichenko,4-3-3,5-4-1,Dmytro Evtukhov,Match Report,,,,,0,0,2025,Karpaty Lviv
+7,2024-09-28,18:00,Premier League,Matchweek 8,Sat,Home,L,1.0,3.0,FC Polissya Zhytomyr,,,,2200.0,Oleksandr Kemkin,4-3-3,4-3-3,Denys Reznikov,Match Report,,,,,0,0,2025,Karpaty Lviv
+8,2024-10-04,18:00,Premier League,Matchweek 9,Fri,Home,D,0.0,0.0,FK Inhulets,,,,1200.0,Denys Miroshnichenko,4-3-3,4-4-2,Serhii Zadiran,Match Report,,,,,0,1,2025,Karpaty Lviv
+9,2024-10-21,18:00,Premier League,Matchweek 10,Mon,Away,W,1.0,0.0,Рух,,,,3300.0,Denys Miroshnichenko,4-1-4-1,4-3-3,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,Karpaty Lviv
+10,2024-10-26,18:00,Premier League,Matchweek 11,Sat,Home,W,1.0,0.0,Obolon-Brovar Kyiv,,,,2187.0,Volodymyr Adamyuk,4-3-2-1,4-2-3-1,Yevhen Tsybulko,Match Report,,,,,0,0,2025,Karpaty Lviv
+11,2024-11-02,15:30,Premier League,Matchweek 12,Sat,Home,W,3.0,0.0,FK Livyi Bereh,,,,1450.0,Denys Miroshnichenko,4-3-2-1,4-3-2-1,Anastasia Romaniuk,Match Report,,,,,1,1,2025,Karpaty Lviv
+12,2024-11-09,15:30,Premier League,Matchweek 13,Sat,Away,L,0.0,3.0,FC Oleksandriya,,,,895.0,Denys Miroshnichenko,4-1-4-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2025,Karpaty Lviv
+13,2024-11-22,18:00,Premier League,Matchweek 14,Fri,Home,W,1.0,0.0,FK Kolos,,,,1030.0,Denys Miroshnichenko,4-1-4-1,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2025,Karpaty Lviv
+14,2024-12-02,18:00,Premier League,Matchweek 15,Mon,Away,L,1.0,2.0,Zorya Luhansk,,,,287.0,Denys Miroshnichenko,4-1-4-1,3-4-3,Oleh Kohut,Match Report,,,,,1,1,2025,Karpaty Lviv
+15,2024-12-07,18:00,Premier League,Matchweek 16,Sat,Home,W,5.0,0.0,Veres Rivne,,,,1600.0,Denys Miroshnichenko,4-3-2-1,4-4-2,Maksim Kozyryatskiy,Match Report,,,,,0,1,2025,Karpaty Lviv
+16,2024-12-14,15:30,Premier League,Matchweek 17,Sat,Away,L,0.0,2.0,Kryvbas Kryvyi Rih,,,,593.0,Denys Miroshnichenko,4-3-3,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,Karpaty Lviv
+17,2025-02-23,18:00,Premier League,Matchweek 18,Sun,Away,L,0.0,2.0,Dynamo Kyiv,,,,1461.0,Denys Miroshnichenko,4-1-4-1,4-3-3,Mykola Balakin,Match Report,,,,,0,0,2025,Karpaty Lviv
+0,2024-08-04,18:00,Premier League,Matchweek 1,Sun,Home,W,2.0,1.0,FK Inhulets,,,,457.0,Roman Vantukh,4-4-2,4-1-4-1,,Match Report,,,,,0,0,2025,Zorya Luhansk
+1,2024-08-10,15:30,Premier League,Matchweek 2,Sat,Away,W,1.0,0.0,Chornomorets Odesa,,,,,Roman Vantukh,4-4-2,4-1-4-1,Dmytro Evtukhov,Match Report,,,,,0,0,2025,Zorya Luhansk
+2,2024-08-17,13:30,Premier League,Matchweek 3,Sat,Home,L,1.0,2.0,FC Oleksandriya,,,,457.0,Roman Vantukh,4-4-2,4-1-4-1,,Match Report,,,,,0,0,2025,Zorya Luhansk
+3,2024-08-25,15:30,Premier League,Matchweek 4,Sun,Away,L,0.0,3.0,Рух,,,,1150.0,Jakov Basic,4-4-2,4-3-2-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Zorya Luhansk
+4,2024-08-30,15:30,Premier League,Matchweek 5,Fri,Away,W,2.0,0.0,Obolon-Brovar Kyiv,,,,1090.0,Pylyp Budkivskyi,4-4-2,5-3-2,Denys Reznikov,Match Report,,,,,0,0,2025,Zorya Luhansk
+5,2024-09-14,15:30,Premier League,Matchweek 6,Sat,Home,L,0.0,2.0,Dynamo Kyiv,,,,1788.0,Pylyp Budkivskyi,4-4-2,4-2-3-1,Roman Blavatskiy,Match Report,,,,,0,0,2025,Zorya Luhansk
+6,2024-09-23,15:30,Premier League,Matchweek 7,Mon,Away,L,0.0,1.0,FK Kolos,,,,477.0,Roman Vantukh,4-4-2,4-2-3-1,Sofia Prychyna,Match Report,,,,,0,0,2025,Zorya Luhansk
+7,2024-09-30,18:00,Premier League,Matchweek 8,Mon,Home,W,2.0,0.0,Vorskla Poltava,,,,346.0,Pylyp Budkivskyi,4-4-2,4-3-3,Klym Zabroda,Match Report,,,,,0,0,2025,Zorya Luhansk
+8,2024-10-05,13:00,Premier League,Matchweek 9,Sat,Away,L,1.0,2.0,Veres Rivne,,,,733.0,Pylyp Budkivskyi,4-4-2,4-4-2,Anastasia Romaniuk,Match Report,,,,,0,0,2025,Zorya Luhansk
+9,2024-10-20,18:00,Premier League,Matchweek 10,Sun,Home,L,0.0,1.0,Kryvbas Kryvyi Rih,,,,386.0,Pylyp Budkivskyi,4-4-2,4-3-3,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Zorya Luhansk
+10,2024-10-27,13:00,Premier League,Matchweek 11,Sun,Away,W,2.0,0.0,FK Livyi Bereh,,,,760.0,Pylyp Budkivskyi,4-1-4-1,4-1-4-1,Dmytro Evtukhov,Match Report,,,,,1,1,2025,Zorya Luhansk
+11,2024-11-04,18:00,Premier League,Matchweek 12,Mon,Home,L,1.0,2.0,FC LNZ Cherkasy,,,,472.0,Pylyp Budkivskyi,4-1-4-1,4-3-3,Serhii Zadiran,Match Report,,,,,0,0,2025,Zorya Luhansk
+12,2024-11-10,15:30,Premier League,Matchweek 13,Sun,Away,L,1.0,3.0,Shakhtar,,,,1380.0,Pylyp Budkivskyi,4-1-4-1,4-3-2-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,Zorya Luhansk
+13,2024-11-25,18:00,Premier League,Matchweek 14,Mon,Away,D,1.0,1.0,FC Polissya Zhytomyr,,,,1000.0,Pylyp Budkivskyi,4-1-4-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Zorya Luhansk
+14,2024-12-02,18:00,Premier League,Matchweek 15,Mon,Home,W,2.0,1.0,Karpaty Lviv,,,,287.0,Pylyp Budkivskyi,3-4-3,4-1-4-1,Oleh Kohut,Match Report,,,,,0,0,2025,Zorya Luhansk
+15,2024-12-14,18:00,Premier League,Matchweek 17,Sat,Home,W,2.0,1.0,Chornomorets Odesa,,,,176.0,Pylyp Budkivskyi,4-3-2-1,4-1-4-1,Roman Blavatskiy,Match Report,,,,,0,0,2025,Zorya Luhansk
+16,2025-02-23,15:30,Premier League,Matchweek 18,Sun,Away,L,1.0,2.0,FC Oleksandriya,,,,,Pylyp Budkivskyi,4-4-2,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Zorya Luhansk
+0,2024-08-04,15:30,Premier League,Matchweek 1,Sun,Away,D,2.0,2.0,Obolon-Brovar Kyiv,,,,1496.0,Valeriy Bondarenko,4-1-4-1,4-2-3-1,,Match Report,,,,,0,0,2025,FK Kolos
+1,2024-08-10,18:00,Premier League,Matchweek 2,Sat,Home,D,0.0,0.0,FK Inhulets,,,,423.0,Valeriy Bondarenko,4-2-3-1,5-4-1,,Match Report,,,,,0,0,2025,FK Kolos
+2,2024-08-16,15:30,Premier League,Matchweek 3,Fri,Away,L,0.0,1.0,Chornomorets Odesa,,,,,Valeriy Bondarenko,4-2-3-1,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2025,FK Kolos
+3,2024-08-26,18:00,Premier League,Matchweek 4,Mon,Home,L,0.0,1.0,Veres Rivne,,,,486.0,Valeriy Bondarenko,4-2-3-1,4-4-2,,Match Report,,,,,0,0,2025,FK Kolos
+4,2024-08-31,15:30,Premier League,Matchweek 5,Sat,Away,L,1.0,2.0,FC Oleksandriya,,,,1108.0,Valeriy Bondarenko,4-2-3-1,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2025,FK Kolos
+5,2024-09-16,18:00,Premier League,Matchweek 6,Mon,Home,D,1.0,1.0,FC LNZ Cherkasy,,,,487.0,Valeriy Bondarenko,4-2-3-1,4-2-3-1,Oleh Kohut,Match Report,,,,,0,0,2025,FK Kolos
+6,2024-09-23,15:30,Premier League,Matchweek 7,Mon,Home,W,1.0,0.0,Zorya Luhansk,,,,477.0,Valeriy Bondarenko,4-2-3-1,4-4-2,Sofia Prychyna,Match Report,,,,,0,0,2025,FK Kolos
+7,2024-09-29,15:30,Premier League,Matchweek 8,Sun,Away,D,0.0,0.0,Рух,,,,910.0,Valeriy Bondarenko,4-2-3-1,4-1-4-1,Ihor Paskhal,Match Report,,,,,0,0,2025,FK Kolos
+8,2024-10-05,18:00,Premier League,Matchweek 9,Sat,Home,D,0.0,0.0,FK Livyi Bereh,,,,486.0,Valeriy Bondarenko,4-2-3-1,4-4-2,Oleksandr Shandor,Match Report,,,,,0,0,2025,FK Kolos
+9,2024-10-18,18:00,Premier League,Matchweek 10,Fri,Home,L,0.0,1.0,Shakhtar,,,,700.0,Valeriy Bondarenko,4-2-3-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,FK Kolos
+10,2024-10-25,18:00,Premier League,Matchweek 11,Fri,Away,D,1.0,1.0,FC Polissya Zhytomyr,,,,980.0,Valeriy Bondarenko,4-2-3-1,4-1-4-1,Andrii Kovalenko,Match Report,,,,,0,0,2025,FK Kolos
+11,2024-11-03,13:00,Premier League,Matchweek 12,Sun,Away,W,1.0,0.0,Vorskla Poltava,,,,1121.0,Valeriy Bondarenko,4-4-1-1,4-4-2,Oleh Kohut,Match Report,,,,,0,0,2025,FK Kolos
+12,2024-11-09,19:20,Premier League,Matchweek 13,Sat,Home,D,1.0,1.0,Kryvbas Kryvyi Rih,,,,456.0,Valeriy Bondarenko,4-1-4-1,4-1-4-1,Viktor Kopievskii,Match Report,,,,,0,0,2025,FK Kolos
+13,2024-11-22,18:00,Premier League,Matchweek 14,Fri,Away,L,0.0,1.0,Karpaty Lviv,,,,1030.0,Valeriy Bondarenko,4-1-4-1,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2025,FK Kolos
+14,2024-12-01,15:30,Premier League,Matchweek 15,Sun,Home,D,1.0,1.0,Dynamo Kyiv,,,,726.0,Valeriy Bondarenko,4-2-3-1,4-4-2,Roman Blavatskiy,Match Report,,,,,0,0,2025,FK Kolos
+15,2024-12-08,15:30,Premier League,Matchweek 16,Sun,Home,D,0.0,0.0,Obolon-Brovar Kyiv,,,,376.0,Valeriy Bondarenko,4-4-1-1,4-1-4-1,Dmitriy Kubryak,Match Report,,,,,0,0,2025,FK Kolos
+16,2024-12-15,13:00,Premier League,Matchweek 17,Sun,Away,W,2.0,0.0,FK Inhulets,,,,430.0,Valeriy Bondarenko,4-2-3-1,4-1-4-1,Anastasia Romaniuk,Match Report,,,,,0,0,2025,FK Kolos
+17,2025-02-21,15:30,Premier League,Matchweek 18,Fri,Home,L,1.0,2.0,Chornomorets Odesa,,,,256.0,Valeriy Bondarenko,4-1-4-1,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2025,FK Kolos
+0,2024-08-04,15:30,Premier League,Matchweek 1,Sun,Home,D,2.0,2.0,FK Kolos,,,,1496.0,Oleh Slobodian,4-2-3-1,4-1-4-1,,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+1,2024-08-11,13:00,Premier League,Matchweek 2,Sun,Home,L,0.0,4.0,Рух,,,,1490.0,Oleksandr Rybka,4-2-3-1,4-1-4-1,,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+2,2024-08-16,18:35,Premier League,Matchweek 3,Fri,Away,L,0.0,2.0,Vorskla Poltava,,,,879.0,Nazarii Fedorivskyi,5-3-2,4-3-3,,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+3,2024-08-25,13:00,Premier League,Matchweek 4,Sun,Away,L,0.0,4.0,FC Polissya Zhytomyr,,,,1300.0,Nazarii Fedorivskyi,4-1-4-1,4-1-4-1,,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+4,2024-08-30,15:30,Premier League,Matchweek 5,Fri,Home,L,0.0,2.0,Zorya Luhansk,,,,1090.0,Nazarii Fedorivskyi,5-3-2,4-4-2,Denys Reznikov,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+5,2024-09-13,18:00,Premier League,Matchweek 6,Fri,Home,D,0.0,0.0,FC Oleksandriya,,,,1250.0,Oleh Slobodian,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+6,2024-09-23,18:00,Premier League,Matchweek 7,Mon,Away,L,0.0,4.0,Shakhtar,,,,958.0,Nazarii Fedorivskyi,4-4-1-1,4-3-3,Roman Blavatskiy,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+7,2024-09-29,13:00,Premier League,Matchweek 8,Sun,Home,W,2.0,1.0,FK Inhulets,,,,1200.0,Nazarii Fedorivskyi,4-4-2,4-4-2,Mykhailo Raida,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+8,2024-10-04,15:30,Premier League,Matchweek 9,Fri,Away,L,0.0,1.0,Chornomorets Odesa,,,,620.0,Nazarii Fedorivskyi,4-1-4-1,4-1-4-1,Oleh Kohut,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+9,2024-10-19,15:30,Premier League,Matchweek 10,Sat,Home,L,1.0,5.0,Dynamo Kyiv,,,,2400.0,Nazarii Fedorivskyi,4-3-3,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+10,2024-10-26,18:00,Premier League,Matchweek 11,Sat,Away,L,0.0,1.0,Karpaty Lviv,,,,2187.0,Ihor Medynskyi,4-2-3-1,4-3-2-1,Yevhen Tsybulko,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+11,2024-11-04,13:00,Premier League,Matchweek 12,Mon,Home,D,0.0,0.0,Veres Rivne,,,,350.0,Oleh Slobodian,4-1-4-1,4-4-2,Ihor Paskhal,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+12,2024-11-09,13:00,Premier League,Matchweek 13,Sat,Away,W,1.0,0.0,FC LNZ Cherkasy,,,,293.0,Oleh Slobodian,4-1-4-1,4-3-3,Dmitriy Kubryak,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+13,2024-11-24,13:00,Premier League,Matchweek 14,Sun,Home,L,0.0,1.0,Kryvbas Kryvyi Rih,,,,720.0,Oleh Slobodian,4-1-4-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,1,2025,Obolon Brovar Kyiv
+14,2024-11-30,18:00,Premier League,Matchweek 15,Sat,Away,D,1.0,1.0,FK Livyi Bereh,,,,404.0,Oleh Slobodian,4-1-4-1,4-3-2-1,Oleksandr Shandor,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+15,2024-12-08,15:30,Premier League,Matchweek 16,Sun,Away,D,0.0,0.0,FK Kolos,,,,376.0,Nazarii Fedorivskyi,4-1-4-1,4-4-1-1,Dmitriy Kubryak,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+16,2024-12-15,15:30,Premier League,Matchweek 17,Sun,Away,W,3.0,1.0,Рух,,,,500.0,Nazarii Fedorivskyi,4-1-4-1,4-1-4-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2025,Obolon Brovar Kyiv
+17,2025-02-23,13:00,Premier League,Matchweek 18,Sun,Home,W,1.0,0.0,Vorskla Poltava,,,,,Ruslan Chernenko,4-1-4-1,4-4-2,Denys Shurman,Match Report,,,,,1,1,2025,Obolon Brovar Kyiv
+0,2024-08-04,15:30,Premier League,Matchweek 1,Sun,Home,L,0.0,5.0,Shakhtar,,,,2632.0,Ihor Perduta,4-3-3,4-3-3,,Match Report,,,,,0,0,2025,Vorskla Poltava
+1,2024-08-09,15:30,Premier League,Matchweek 2,Fri,Away,W,3.0,0.0,FK Livyi Bereh,,,,759.0,Ihor Perduta,4-3-3,4-3-3,,Match Report,,,,,0,0,2025,Vorskla Poltava
+2,2024-08-16,18:35,Premier League,Matchweek 3,Fri,Home,W,2.0,0.0,Obolon-Brovar Kyiv,,,,879.0,Ihor Perduta,4-3-3,5-3-2,,Match Report,,,,,0,0,2025,Vorskla Poltava
+3,2024-08-31,13:00,Premier League,Matchweek 5,Sat,Away,D,1.0,1.0,Karpaty Lviv,,,,,Oleksandr Sklyar,4-3-3,4-1-4-1,Volodymyr Novohatnii,Match Report,,,,,0,0,2025,Vorskla Poltava
+4,2024-09-15,13:00,Premier League,Matchweek 6,Sun,Home,D,0.0,0.0,Рух,,,,1100.0,Ihor Perduta,4-5-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2025,Vorskla Poltava
+5,2024-09-18,18:00,Premier League,Matchweek 4,Wed,Away,L,1.0,3.0,Dynamo Kyiv,,,,2076.0,Ihor Perduta,4-3-3,4-2-3-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2025,Vorskla Poltava
+6,2024-09-22,16:00,Premier League,Matchweek 7,Sun,Away,D,1.0,1.0,Kryvbas Kryvyi Rih,,,,600.0,Ihor Perduta,4-3-3,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2025,Vorskla Poltava
+7,2024-09-30,18:00,Premier League,Matchweek 8,Mon,Away,L,0.0,2.0,Zorya Luhansk,,,,346.0,Ihor Perduta,4-3-3,4-4-2,Klym Zabroda,Match Report,,,,,0,0,2025,Vorskla Poltava
+8,2024-10-06,13:00,Premier League,Matchweek 9,Sun,Away,L,1.0,2.0,FC Polissya Zhytomyr,,,,1450.0,Ihor Perduta,4-2-3-1,4-3-3,Vitalii Romanov,Match Report,,,,,0,0,2025,Vorskla Poltava
+9,2024-10-19,13:00,Premier League,Matchweek 10,Sat,Away,L,0.0,1.0,FC Oleksandriya,,,,730.0,Ihor Perduta,4-3-3,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2025,Vorskla Poltava
+10,2024-10-27,15:30,Premier League,Matchweek 11,Sun,Away,D,2.0,2.0,Veres Rivne,,,,1368.0,Ihor Perduta,4-4-2,4-2-2-2,Sofia Prychyna,Match Report,,,,,0,0,2025,Vorskla Poltava
+11,2024-11-03,13:00,Premier League,Matchweek 12,Sun,Home,L,0.0,1.0,FK Kolos,,,,1121.0,Oleksandr Sklyar,4-4-2,4-4-1-1,Oleh Kohut,Match Report,,,,,0,0,2025,Vorskla Poltava
+12,2024-11-08,16:30,Premier League,Matchweek 13,Fri,Away,W,1.0,0.0,Chornomorets Odesa,,,,293.0,Ihor Perduta,4-4-2,4-2-3-1,Denys Reznikov,Match Report,,,,,0,0,2025,Vorskla Poltava
+13,2024-11-23,13:00,Premier League,Matchweek 14,Sat,Home,W,2.0,0.0,FC LNZ Cherkasy,,,,175.0,Ihor Perduta,4-4-2,4-3-3,Mykhailo Raida,Match Report,,,,,0,0,2025,Vorskla Poltava
+14,2024-11-29,15:30,Premier League,Matchweek 15,Fri,Home,L,0.0,3.0,FK Inhulets,,,,440.0,Ihor Perduta,4-3-3,4-1-4-1,Dmytro Evtukhov,Match Report,,,,,0,1,2025,Vorskla Poltava
+15,2024-12-05,18:00,Premier League,Matchweek 16,Thu,Away,L,1.0,3.0,Shakhtar,,,,645.0,Ihor Perduta,4-1-4-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,Vorskla Poltava
+16,2024-12-13,15:30,Premier League,Matchweek 17,Fri,Home,L,0.0,1.0,FK Livyi Bereh,,,,150.0,Ihor Perduta,4-2-3-1,4-2-3-1,Klym Zabroda,Match Report,,,,,0,0,2025,Vorskla Poltava
+17,2025-02-23,13:00,Premier League,Matchweek 18,Sun,Away,L,0.0,1.0,Obolon-Brovar Kyiv,,,,,Ihor Perduta,4-4-2,4-1-4-1,Denys Shurman,Match Report,,,,,0,0,2025,Vorskla Poltava
+0,2024-08-04,13:00,Premier League,Matchweek 1,Sun,Away,L,0.0,1.0,FC LNZ Cherkasy,,,,350.0,Ruslan Dedukh,4-2-3-1,4-3-3,,Match Report,,,,,0,0,2025,FK Livyi Bereh
+1,2024-08-09,15:30,Premier League,Matchweek 2,Fri,Home,L,0.0,3.0,Vorskla Poltava,,,,759.0,Ruslan Dedukh,4-3-3,4-3-3,,Match Report,,,,,0,0,2025,FK Livyi Bereh
+2,2024-08-18,18:00,Premier League,Matchweek 3,Sun,Home,L,0.0,1.0,Shakhtar,,,,1279.0,Andrii Spivakov,4-2-3-1,4-3-3,,Match Report,,,,,0,0,2025,FK Livyi Bereh
+3,2024-08-26,17:00,Premier League,Matchweek 4,Mon,Home,W,1.0,0.0,Chornomorets Odesa,,,,587.0,Andrii Spivakov,4-2-3-1,4-1-4-1,,Match Report,,,,,0,0,2025,FK Livyi Bereh
+4,2024-09-01,13:00,Premier League,Matchweek 5,Sun,Away,W,3.0,1.0,Veres Rivne,,,,1617.0,Andrii Spivakov,4-5-1,4-4-1-1,Mykhailo Raida,Match Report,,,,,1,1,2025,FK Livyi Bereh
+5,2024-09-15,15:30,Premier League,Matchweek 6,Sun,Home,L,0.0,1.0,Kryvbas Kryvyi Rih,,,,1087.0,Ruslan Dedukh,4-2-3-1,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2025,FK Livyi Bereh
+6,2024-09-21,15:30,Premier League,Matchweek 7,Sat,Away,L,0.0,2.0,FC Oleksandriya,,,,1018.0,Ruslan Dedukh,4-2-3-1,4-1-4-1,Denys Shurman,Match Report,,,,,0,0,2025,FK Livyi Bereh
+7,2024-09-29,18:00,Premier League,Matchweek 8,Sun,Home,L,0.0,3.0,Dynamo Kyiv,,,,1179.0,Ruslan Dedukh,4-4-1-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2025,FK Livyi Bereh
+8,2024-10-05,18:00,Premier League,Matchweek 9,Sat,Away,D,0.0,0.0,FK Kolos,,,,486.0,Ruslan Dedukh,4-4-2,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2025,FK Livyi Bereh
+9,2024-10-19,18:00,Premier League,Matchweek 10,Sat,Away,D,0.0,0.0,FC Polissya Zhytomyr,,,,1100.0,Andrii Spivakov,4-4-2,4-3-2-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2025,FK Livyi Bereh
+10,2024-10-27,13:00,Premier League,Matchweek 11,Sun,Home,L,0.0,2.0,Zorya Luhansk,,,,760.0,Andrii Spivakov,4-1-4-1,4-1-4-1,Dmytro Evtukhov,Match Report,,,,,0,0,2025,FK Livyi Bereh
+11,2024-11-02,15:30,Premier League,Matchweek 12,Sat,Away,L,0.0,3.0,Karpaty Lviv,,,,1450.0,Ruslan Dedukh,4-3-2-1,4-3-2-1,Anastasia Romaniuk,Match Report,,,,,0,0,2025,FK Livyi Bereh
+12,2024-11-08,18:25,Premier League,Matchweek 13,Fri,Home,D,0.0,0.0,FK Inhulets,,,,533.0,Vladyslav Voytsekhovskyi,4-1-4-1,3-5-2,Artem Mykhailiuk,Match Report,,,,,0,0,2025,FK Livyi Bereh
+13,2024-11-24,18:00,Premier League,Matchweek 14,Sun,Away,L,0.0,1.0,Рух,,,,650.0,Ruslan Dedukh,4-4-2,4-1-4-1,Denys Shurman,Match Report,,,,,0,0,2025,FK Livyi Bereh
+14,2024-11-30,18:00,Premier League,Matchweek 15,Sat,Home,D,1.0,1.0,Obolon-Brovar Kyiv,,,,404.0,Ruslan Dedukh,4-3-2-1,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2025,FK Livyi Bereh
+15,2024-12-07,13:00,Premier League,Matchweek 16,Sat,Home,W,3.0,1.0,FC LNZ Cherkasy,,,,427.0,Ruslan Dedukh,4-4-2,4-2-3-1,Oleksandr Solovyan,Match Report,,,,,1,1,2025,FK Livyi Bereh
+16,2024-12-13,15:30,Premier League,Matchweek 17,Fri,Away,W,1.0,0.0,Vorskla Poltava,,,,150.0,Ruslan Dedukh,4-2-3-1,4-2-3-1,Klym Zabroda,Match Report,,,,,0,0,2025,FK Livyi Bereh
+0,2024-08-03,18:00,Premier League,Matchweek 1,Sat,Away,L,0.0,1.0,Kryvbas Kryvyi Rih,,,,587.0,Bohdan Butko,4-1-4-1,4-1-4-1,,Match Report,,,,,0,0,2025,Chornomorets Odesa
+1,2024-08-10,15:30,Premier League,Matchweek 2,Sat,Home,L,0.0,1.0,Zorya Luhansk,,,,,Bohdan Butko,4-1-4-1,4-4-2,Dmytro Evtukhov,Match Report,,,,,0,0,2025,Chornomorets Odesa
+2,2024-08-16,15:30,Premier League,Matchweek 3,Fri,Home,W,1.0,0.0,FK Kolos,,,,,Bohdan Butko,4-1-4-1,4-2-3-1,Klym Zabroda,Match Report,,,,,0,0,2025,Chornomorets Odesa
+3,2024-08-26,17:00,Premier League,Matchweek 4,Mon,Away,L,0.0,1.0,FK Livyi Bereh,,,,587.0,Bohdan Butko,4-1-4-1,4-2-3-1,,Match Report,,,,,0,0,2025,Chornomorets Odesa
+4,2024-08-31,18:00,Premier League,Matchweek 5,Sat,Home,L,1.0,4.0,FC Polissya Zhytomyr,,,,,Bohdan Butko,4-3-3,4-3-3,Oleksandr Afanasiev,Match Report,,,,,0,0,2025,Chornomorets Odesa
+5,2024-09-14,13:00,Premier League,Matchweek 6,Sat,Home,W,1.0,0.0,FK Inhulets,,,,,Bohdan Butko,4-1-4-1,4-4-2,Anastasia Romaniuk,Match Report,,,,,0,0,2025,Chornomorets Odesa
+6,2024-09-21,13:00,Premier League,Matchweek 7,Sat,Home,D,0.0,0.0,Karpaty Lviv,,,,,Bohdan Biloshevskyi,5-4-1,4-3-3,Dmytro Evtukhov,Match Report,,,,,0,0,2025,Chornomorets Odesa
+7,2024-09-28,15:30,Premier League,Matchweek 8,Sat,Away,D,1.0,1.0,FC LNZ Cherkasy,,,,170.0,Bohdan Butko,4-2-3-1,4-2-3-1,Artem Mykhailiuk,Match Report,,,,,0,0,2025,Chornomorets Odesa
+8,2024-10-04,15:30,Premier League,Matchweek 9,Fri,Home,W,1.0,0.0,Obolon-Brovar Kyiv,,,,620.0,Bohdan Butko,4-1-4-1,4-1-4-1,Oleh Kohut,Match Report,,,,,0,0,2025,Chornomorets Odesa
+9,2024-10-20,15:30,Premier League,Matchweek 10,Sun,Home,D,1.0,1.0,Veres Rivne,,,,,Bohdan Butko,4-2-3-1,4-4-2,Oleksandr Solovyan,Match Report,,,,,0,0,2025,Chornomorets Odesa
+10,2024-10-25,15:30,Premier League,Matchweek 11,Fri,Away,D,1.0,1.0,Рух,,,,350.0,Bohdan Butko,4-1-4-1,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2025,Chornomorets Odesa
+11,2024-11-02,18:00,Premier League,Matchweek 12,Sat,Away,L,1.0,2.0,Shakhtar,,,,876.0,Bohdan Butko,4-1-4-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,Chornomorets Odesa
+12,2024-11-08,16:30,Premier League,Matchweek 13,Fri,Home,L,0.0,1.0,Vorskla Poltava,,,,293.0,Bohdan Butko,4-2-3-1,4-4-2,Denys Reznikov,Match Report,,,,,0,0,2025,Chornomorets Odesa
+13,2024-11-23,15:30,Premier League,Matchweek 14,Sat,Away,L,1.0,3.0,Dynamo Kyiv,,,,1492.0,Artur Rudko,4-3-3,3-4-3,Maksim Kozyryatskiy,Match Report,,,,,0,0,2025,Chornomorets Odesa
+14,2024-12-01,13:00,Premier League,Matchweek 15,Sun,Away,L,0.0,3.0,FC Oleksandriya,,,,865.0,Bohdan Butko,4-1-4-1,4-5-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2025,Chornomorets Odesa
+15,2024-12-07,16:30,Premier League,Matchweek 16,Sat,Home,L,1.0,3.0,Kryvbas Kryvyi Rih,,,,,Oleksiy Khoblenko,4-1-4-1,4-1-4-1,Viktor Kopievskii,Match Report,,,,,0,0,2025,Chornomorets Odesa
+16,2024-12-14,18:00,Premier League,Matchweek 17,Sat,Away,L,1.0,2.0,Zorya Luhansk,,,,176.0,Artur Rudko,4-1-4-1,4-3-2-1,Roman Blavatskiy,Match Report,,,,,0,0,2025,Chornomorets Odesa
+17,2025-02-21,15:30,Premier League,Matchweek 18,Fri,Away,W,2.0,1.0,FK Kolos,,,,256.0,Artur Rudko,4-1-4-1,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2025,Chornomorets Odesa
+0,2024-08-04,18:00,Premier League,Matchweek 1,Sun,Away,L,1.0,2.0,Zorya Luhansk,,,,457.0,Oleksandr Kozak,4-1-4-1,4-4-2,,Match Report,,,,,0,0,2025,FK Inhulets
+1,2024-08-10,18:00,Premier League,Matchweek 2,Sat,Away,D,0.0,0.0,FK Kolos,,,,423.0,Oleksandr Kozak,5-4-1,4-2-3-1,,Match Report,,,,,0,0,2025,FK Inhulets
+2,2024-08-17,15:30,Premier League,Matchweek 3,Sat,Away,D,1.0,1.0,FC Polissya Zhytomyr,,,,1276.0,Oleksandr Kozak,4-4-2,4-3-3,Oleksandr Kalyonov,Match Report,,,,,0,0,2025,FK Inhulets
+3,2024-08-25,18:00,Premier League,Matchweek 4,Sun,Away,D,1.0,1.0,Kryvbas Kryvyi Rih,,,,534.0,Oleksandr Kozak,4-3-3,4-3-3,Roman Blavatskiy,Match Report,,,,,0,0,2025,FK Inhulets
+4,2024-08-30,18:00,Premier League,Matchweek 5,Fri,Away,L,0.0,5.0,Рух,,,,950.0,Oleksandr Kozak,4-1-4-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2025,FK Inhulets
+5,2024-09-14,13:00,Premier League,Matchweek 6,Sat,Away,L,0.0,1.0,Chornomorets Odesa,,,,,Oleksandr Kozak,4-4-2,4-1-4-1,Anastasia Romaniuk,Match Report,,,,,0,0,2025,FK Inhulets
+6,2024-09-22,13:00,Premier League,Matchweek 7,Sun,Away,D,2.0,2.0,Veres Rivne,,,,1008.0,Oleksandr Kozak,4-4-2,4-4-2,Dmitriy Kubryak,Match Report,,,,,0,0,2025,FK Inhulets
+7,2024-09-29,13:00,Premier League,Matchweek 8,Sun,Away,L,1.0,2.0,Obolon-Brovar Kyiv,,,,1200.0,Oleksandr Kozak,4-4-2,4-4-2,Mykhailo Raida,Match Report,,,,,0,0,2025,FK Inhulets
+8,2024-10-04,18:00,Premier League,Matchweek 9,Fri,Away,D,0.0,0.0,Karpaty Lviv,,,,1200.0,Oleksandr Kozak,4-4-2,4-3-3,Serhii Zadiran,Match Report,,,,,0,0,2025,FK Inhulets
+9,2024-10-20,13:00,Premier League,Matchweek 10,Sun,Away,L,0.0,2.0,FC LNZ Cherkasy,,,,391.0,Artem Sitalo,4-5-1,5-3-2,Nazarii Dord,Match Report,,,,,0,1,2025,FK Inhulets
+10,2024-10-26,13:00,Premier League,Matchweek 11,Sat,Away,L,1.0,2.0,FC Oleksandriya,,,,861.0,Artem Sitalo,4-2-3-1,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2025,FK Inhulets
+11,2024-11-03,18:00,Premier League,Matchweek 12,Sun,Away,L,2.0,5.0,Dynamo Kyiv,,,,1741.0,Stanislav-Nuri Malysh,4-1-4-1,4-4-2,Oleksii Derevinskyi,Match Report,,,,,0,0,2025,FK Inhulets
+12,2024-11-08,18:25,Premier League,Matchweek 13,Fri,Away,D,0.0,0.0,FK Livyi Bereh,,,,533.0,Mykhaylo Shershen,3-5-2,4-1-4-1,Artem Mykhailiuk,Match Report,,,,,0,0,2025,FK Inhulets
+13,2024-11-23,18:00,Premier League,Matchweek 14,Sat,Away,L,0.0,6.0,Shakhtar,,,,767.0,Mykhaylo Shershen,5-3-2,4-3-3,Oleksandr Kalyonov,Match Report,,,,,0,0,2025,FK Inhulets
+14,2024-11-29,15:30,Premier League,Matchweek 15,Fri,Away,W,3.0,0.0,Vorskla Poltava,,,,440.0,Mykhaylo Shershen,4-1-4-1,4-3-3,Dmytro Evtukhov,Match Report,,,,,0,0,2025,FK Inhulets
+15,2024-12-15,13:00,Premier League,Matchweek 17,Sun,Home,L,0.0,2.0,FK Kolos,,,,430.0,Mykhaylo Shershen,4-1-4-1,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2025,FK Inhulets
+16,2025-02-22,15:30,Premier League,Matchweek 18,Sat,Home,L,0.0,1.0,FC Polissya Zhytomyr,,,,700.0,Oleksii Palamarchuk,4-1-4-1,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2025,FK Inhulets
+0,2023-07-29,17:00,Premier League,Matchweek 1,Sat,Away,W,2,1,FK Metalist 1925 Kharkiv,,,,,Mykola Matviyenko,4-2-3-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+1,2023-08-02,17:00,Premier League,Matchweek 2,Wed,Away,D,1,1,Veres Rivne,,,,,Mykola Matviyenko,4-2-3-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+2,2023-08-14,17:00,Premier League,Matchweek 3,Mon,Home,W,2,1,FC Oleksandriya,,,,,Mykola Matviyenko,4-3-3,4-3-3,Denys Shurman,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+3,2023-08-20,19:00,Premier League,Matchweek 4,Sun,Away,D,3,3,Kryvbas Kryvyi Rih,,,,,Taras Stepanenko,4-3-3,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+4,2023-08-27,15:00,Premier League,Matchweek 5,Sun,Away,W,2,0,FK Kolos,,,,,Taras Stepanenko,4-2-3-1,3-4-3,Vitalii Romanov,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+5,2023-09-02,13:00,Premier League,Matchweek 6,Sat,Away,W,4,1,FK Mynai,,,,,Taras Stepanenko,4-5-1,5-4-1,Dmytro Bondarenko,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+6,2023-09-16,17:00,Premier League,Matchweek 7,Sat,Home,W,1,0,Obolon-Brovar Kyiv,,,,,Taras Stepanenko,4-1-4-1,5-3-2,Mykola Balakin,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+8,2023-09-23,19:00,Premier League,Matchweek 8,Sat,Away,D,1,1,Рух,,,,,Taras Stepanenko,4-1-4-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+9,2023-09-30,17:00,Premier League,Matchweek 9,Sat,Home,L,1,2,Vorskla Poltava,,,,,Taras Stepanenko,4-3-3,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+11,2023-10-21,17:00,Premier League,Matchweek 11,Sat,Home,W,3,0,FC LNZ Cherkasy,,,,,Taras Stepanenko,4-1-4-1,4-2-3-1,Kateryna Monzul,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+13,2023-11-03,17:00,Premier League,Matchweek 13,Fri,Away,W,1,0,Dynamo Kyiv,,,,,Taras Stepanenko,4-1-4-1,4-2-3-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+15,2023-11-12,19:00,Premier League,Matchweek 14,Sun,Home,L,1,3,SK Dnipro-1,,,,,Taras Stepanenko,4-1-4-1,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+16,2023-11-24,19:00,Premier League,Matchweek 15,Fri,Home,D,0,0,FC Polissya Zhytomyr,,,,,Taras Stepanenko,4-1-4-1,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+18,2023-12-03,17:00,Premier League,Matchweek 16,Sun,Home,W,2,0,FK Metalist 1925 Kharkiv,,,,,Taras Stepanenko,4-1-4-1,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,1,1,2024,Shakhtar Donetsk
+19,2023-12-08,17:00,Premier League,Matchweek 17,Fri,Home,W,2,0,Veres Rivne,,,,,Mykola Matviyenko,4-3-3,4-2-3-1,Kateryna Monzul,Match Report,,,,,0,1,2024,Shakhtar Donetsk
+23,2024-02-26,13:00,Premier League,Matchweek 18,Mon,Away,W,3,0,FC Oleksandriya,,,,573.0,Mykola Matviyenko,4-2-3-1,4-1-4-1,Denys Shurman,Match Report,Match awarded to Shakhtar,,,,0,0,2024,Shakhtar Donetsk
+24,2024-03-03,18:00,Premier League,Matchweek 19,Sun,Home,W,5,2,Kryvbas Kryvyi Rih,,,,500.0,Yaroslav Rakitskiy,4-1-4-1,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+25,2024-03-08,18:00,Premier League,Matchweek 20,Fri,Home,W,3,2,FK Kolos,,,,485.0,Mykola Matviyenko,4-1-4-1,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+26,2024-03-12,18:00,Premier League,Matchweek 21,Tue,Home,W,2,0,FK Mynai,,,,410.0,Mykola Matviyenko,4-3-3,5-3-2,Volodymyr Novohatnіj,Match Report,,,,,1,1,2024,Shakhtar Donetsk
+27,2024-03-30,13:00,Premier League,Matchweek 22,Sat,Away,W,3,0,Obolon-Brovar Kyiv,,,,,Mykola Matviyenko,4-3-3,3-5-2,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+28,2024-04-07,18:00,Premier League,Matchweek 23,Sun,Home,W,3,1,Рух,,,,1191.0,Taras Stepanenko,4-1-4-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+29,2024-04-14,13:00,Premier League,Matchweek 24,Sun,Away,W,1,0,Vorskla Poltava,,,,2682.0,Mykola Matviyenko,4-1-4-1,5-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+30,2024-04-18,15:30,Premier League,Matchweek 10,Thu,Away,W,3,1,Zorya Luhansk,,,,457.0,Mykola Matviyenko,4-1-4-1,4-4-2,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+31,2024-04-22,18:00,Premier League,Matchweek 25,Mon,Home,W,2,1,Zorya Luhansk,,,,814.0,Mykola Matviyenko,4-1-4-1,4-2-3-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+32,2024-04-27,15:30,Premier League,Matchweek 26,Sat,Away,W,3,0,FC LNZ Cherkasy,,,,435.0,Taras Stepanenko,4-3-3,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+33,2024-05-01,13:00,Premier League,Matchweek 12,Wed,Away,W,4,1,Chornomorets Odesa,,,,494.0,Mykola Matviyenko,4-3-3,4-3-3,Vitalii Romanov,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+34,2024-05-05,18:00,Premier League,Matchweek 27,Sun,Home,W,3,0,Chornomorets Odesa,,,,526.0,Mykola Matviyenko,4-3-3,4-3-3,Anastasia Romaniuk,Match Report,,,,,1,1,2024,Shakhtar Donetsk
+35,2024-05-11,18:00,Premier League,Matchweek 28,Sat,Home,W,1,0,Dynamo Kyiv,,,,1317.0,Mykola Matviyenko,4-3-3,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,1,1,2024,Shakhtar Donetsk
+36,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Away,D,1,1,SK Dnipro-1,,,,,Taras Stepanenko,4-1-4-1,4-1-4-1,Denys Shurman,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+37,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Away,L,0,2,FC Polissya Zhytomyr,,,,1751.0,Yaroslav Rakitskiy,4-3-3,5-3-2,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Shakhtar Donetsk
+0,2023-07-30,17:00,Premier League,Matchweek 1,Sun,Home,W,4,1,FK Mynai,,,,,Serhiy Sydorchuk,4-2-3-1,5-4-1,Maksim Kozyryatskiy,Match Report,,,,,1,1,2024,Dynamo Kyiv
+1,2023-08-04,17:00,Premier League,Matchweek 2,Fri,Away,W,4,2,Obolon-Brovar Kyiv,,,,,Serhiy Sydorchuk,4-2-3-1,5-3-2,Yury Ivanov,Match Report,,,,,2,2,2024,Dynamo Kyiv
+4,2023-08-20,17:00,Premier League,Matchweek 4,Sun,Away,L,2,3,Chornomorets Odesa,,,,,Serhiy Sydorchuk,4-4-2,4-4-2,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Dynamo Kyiv
+7,2023-09-18,17:00,Premier League,Matchweek 7,Mon,Home,W,2,0,Vorskla Poltava,,,,,Vitaliy Buyalskyi,4-2-3-1,4-2-3-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Dynamo Kyiv
+8,2023-09-23,13:00,Premier League,Matchweek 8,Sat,Away,W,4,2,FC LNZ Cherkasy,,,,,Vitaliy Buyalskyi,4-2-3-1,3-4-3,Dmytro Panchyshyn,Match Report,,,,,1,1,2024,Dynamo Kyiv
+9,2023-10-01,19:00,Premier League,Matchweek 9,Sun,Home,W,4,2,FC Oleksandriya,,,,,Vitaliy Buyalskyi,4-2-3-1,3-4-3,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Dynamo Kyiv
+10,2023-10-06,15:00,Premier League,Matchweek 10,Fri,Away,L,2,3,FC Polissya Zhytomyr,,,,,Vitaliy Buyalskyi,4-2-3-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,1,1,2024,Dynamo Kyiv
+11,2023-10-22,17:00,Premier League,Matchweek 11,Sun,Home,L,0,1,SK Dnipro-1,,,,,Vitaliy Buyalskyi,4-2-3-1,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,Dynamo Kyiv
+12,2023-10-28,15:00,Premier League,Matchweek 12,Sat,Away,D,1,1,FK Kolos,,,,,Vitaliy Buyalskyi,4-2-3-1,3-4-3,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Dynamo Kyiv
+13,2023-11-03,17:00,Premier League,Matchweek 13,Fri,Home,L,0,1,Shakhtar,,,,,Volodymyr Brazhko,4-2-3-1,4-1-4-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Dynamo Kyiv
+14,2023-11-12,13:00,Premier League,Matchweek 14,Sun,Away,W,2,0,Kryvbas Kryvyi Rih,,,,,Volodymyr Brazhko,4-1-4-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Dynamo Kyiv
+15,2023-11-26,15:00,Premier League,Matchweek 15,Sun,Home,W,2,0,Рух,,,,,Vitaliy Buyalskyi,4-2-3-1,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,Dynamo Kyiv
+16,2023-12-07,15:00,Premier League,Matchweek 3,Thu,Home,W,4,2,FK Metalist 1925 Kharkiv,,,,,Vitaliy Buyalskyi,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Dynamo Kyiv
+17,2023-12-11,15:00,Premier League,Matchweek 17,Mon,Home,W,2,0,Obolon-Brovar Kyiv,,,,,Vitaliy Buyalskyi,4-2-3-1,3-5-2,Viktor Kopievskii,Match Report,,,,,1,1,2024,Dynamo Kyiv
+18,2024-02-25,15:30,Premier League,Matchweek 18,Sun,Away,W,4,2,FK Metalist 1925 Kharkiv,,,,,Vitaliy Buyalskyi,5-4-1,4-3-3,Viktor Kopievskii,Match Report,,,,,0,0,2024,Dynamo Kyiv
+19,2024-03-02,15:30,Premier League,Matchweek 19,Sat,Home,W,1,0,Chornomorets Odesa,,,,1800.0,Heorhiy Bushchan,4-2-3-1,4-3-3,Andrii Kovalenko,Match Report,,,,,0,0,2024,Dynamo Kyiv
+20,2024-03-07,18:00,Premier League,Matchweek 20,Thu,Away,D,1,1,Veres Rivne,,,,2487.0,Heorhiy Bushchan,4-2-3-1,4-4-2,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Dynamo Kyiv
+21,2024-03-12,15:30,Premier League,Matchweek 21,Tue,Home,W,2,0,Zorya Luhansk,,,,1800.0,Heorhiy Bushchan,4-3-3,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Dynamo Kyiv
+22,2024-03-31,15:30,Premier League,Matchweek 22,Sun,Away,W,5,1,Vorskla Poltava,,,,2800.0,Heorhiy Bushchan,4-2-3-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,1,1,2024,Dynamo Kyiv
+23,2024-04-04,15:30,Premier League,Matchweek 6,Thu,Away,W,3,0,Zorya Luhansk,,,,1540.0,Heorhiy Bushchan,4-2-3-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Dynamo Kyiv
+24,2024-04-08,15:30,Premier League,Matchweek 23,Mon,Home,D,1,1,FC LNZ Cherkasy,,,,1540.0,Andriy Yarmolenko,4-2-3-1,3-4-3,Yury Ivanov,Match Report,,,,,0,0,2024,Dynamo Kyiv
+25,2024-04-13,15:30,Premier League,Matchweek 24,Sat,Away,W,1,0,FC Oleksandriya,,,,1180.0,Heorhiy Bushchan,4-1-4-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Dynamo Kyiv
+26,2024-04-17,15:30,Premier League,Matchweek 16,Wed,Away,W,3,1,FK Mynai,,,,1800.0,Vitaliy Buyalskyi,4-2-3-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Dynamo Kyiv
+27,2024-04-21,18:00,Premier League,Matchweek 25,Sun,Home,W,3,0,FC Polissya Zhytomyr,,,,1593.0,Vitaliy Buyalskyi,4-2-3-1,4-2-3-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,Dynamo Kyiv
+28,2024-04-27,13:00,Premier League,Matchweek 26,Sat,Away,W,2,1,SK Dnipro-1,,,,,Vitaliy Buyalskyi,4-2-3-1,3-4-3,Yury Ivanov,Match Report,,,,,0,0,2024,Dynamo Kyiv
+29,2024-05-01,15:30,Premier League,Matchweek 5,Wed,Home,W,3,0,Veres Rivne,,,,1377.0,Vitaliy Buyalskyi,4-2-3-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Dynamo Kyiv
+30,2024-05-05,15:30,Premier League,Matchweek 27,Sun,Home,W,5,0,FK Kolos,,,,1687.0,Vitaliy Buyalskyi,4-2-3-1,4-2-3-1,Denys Shurman,Match Report,,,,,0,0,2024,Dynamo Kyiv
+31,2024-05-11,18:00,Premier League,Matchweek 28,Sat,Away,L,0,1,Shakhtar,,,,1317.0,Vitaliy Buyalskyi,4-1-4-1,4-3-3,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Dynamo Kyiv
+32,2024-05-18,15:30,Premier League,Matchweek 29,Sat,Home,W,3,1,Kryvbas Kryvyi Rih,,,,1800.0,Andriy Yarmolenko,3-4-3,4-2-3-1,Yaroslav Kozyk,Match Report,,,,,1,1,2024,Dynamo Kyiv
+33,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Away,W,2,1,Рух,,,,1500.0,Vitaliy Buyalskyi,4-3-3,4-3-3,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Dynamo Kyiv
+0,2023-07-30,19:00,Premier League,Matchweek 1,Sun,Away,L,0,1,FC Oleksandriya,,,,,Dmytro Khomchenovskyi,4-4-2,4-1-4-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+1,2023-08-06,17:00,Premier League,Matchweek 2,Sun,Away,W,3,1,Zorya Luhansk,,,,,Dmytro Khomchenovskyi,4-2-3-1,4-2-3-1,Mykola Balakin,Match Report,,,,,1,2,2024,Kryvbas Kryvyi Rih
+2,2023-08-13,17:00,Premier League,Matchweek 3,Sun,Home,W,2,0,FC LNZ Cherkasy,,,,,Dmytro Khomchenovskyi,4-2-3-1,4-5-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+3,2023-08-20,19:00,Premier League,Matchweek 4,Sun,Home,D,3,3,Shakhtar,,,,,Dmytro Khomchenovskyi,4-2-3-1,4-3-3,Andrii Kovalenko,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+4,2023-08-28,19:00,Premier League,Matchweek 5,Mon,Away,D,0,0,Obolon-Brovar Kyiv,,,,,Danylo Beskorovainii,4-2-3-1,3-5-2,Kateryna Monzul,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+5,2023-09-03,17:00,Premier League,Matchweek 6,Sun,Away,W,3,0,FK Kolos,,,,,Dmytro Khomchenovskyi,4-2-3-1,3-4-3,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+6,2023-09-17,17:00,Premier League,Matchweek 7,Sun,Home,W,2,1,Veres Rivne,,,,,Dmytro Khomchenovskyi,4-1-4-1,4-3-3,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+7,2023-09-23,17:00,Premier League,Matchweek 8,Sat,Away,W,4,1,Vorskla Poltava,,,,,Dmytro Khomchenovskyi,4-1-4-1,4-4-2,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+8,2023-10-01,16:00,Premier League,Matchweek 9,Sun,Home,L,1,3,Рух,,,,,Dmytro Khomchenovskyi,4-2-3-1,4-3-3,Dmytro Bondarenko,Match Report,,,,,1,1,2024,Kryvbas Kryvyi Rih
+9,2023-10-08,17:00,Premier League,Matchweek 10,Sun,Home,W,1,0,Chornomorets Odesa,,,,,Danylo Beskorovainii,4-1-4-1,4-1-4-1,Denys Shurman,Match Report,,,,,1,1,2024,Kryvbas Kryvyi Rih
+10,2023-10-20,19:00,Premier League,Matchweek 11,Fri,Away,W,3,1,FK Metalist 1925 Kharkiv,,,,,Danylo Beskorovainii,4-1-4-1,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+11,2023-10-28,13:00,Premier League,Matchweek 12,Sat,Home,W,3,0,SK Dnipro-1,,,,,Danylo Beskorovainii,4-2-3-1,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+12,2023-11-06,15:00,Premier League,Matchweek 13,Mon,Away,D,1,1,FC Polissya Zhytomyr,,,,,Danylo Beskorovainii,4-2-3-1,4-1-4-1,Kateryna Monzul,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+13,2023-11-12,13:00,Premier League,Matchweek 14,Sun,Home,L,0,2,Dynamo Kyiv,,,,,Danylo Beskorovainii,4-2-3-1,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+14,2023-11-25,13:00,Premier League,Matchweek 15,Sat,Away,W,1,0,FK Mynai,,,,,Vyacheslav Ryabov,4-4-2,4-5-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+15,2023-12-02,15:00,Premier League,Matchweek 16,Sat,Home,W,2,1,FC Oleksandriya,,,,,Danylo Beskorovainii,4-2-3-1,4-5-1,Yury Ivanov,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+16,2023-12-09,15:00,Premier League,Matchweek 17,Sat,Home,D,2,2,Zorya Luhansk,,,,,Vyacheslav Ryabov,4-1-4-1,4-2-3-1,Dmytro Bondarenko,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+17,2024-02-23,15:30,Premier League,Matchweek 18,Fri,Away,W,3,0,FC LNZ Cherkasy,,,,,,4-2-3-1,3-4-3,Anastasia Romaniuk,Match Report,,,,,1,1,2024,Kryvbas Kryvyi Rih
+18,2024-03-03,18:00,Premier League,Matchweek 19,Sun,Away,L,2,5,Shakhtar,,,,500.0,,4-2-3-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+19,2024-03-09,18:00,Premier League,Matchweek 20,Sat,Home,W,1,0,Obolon-Brovar Kyiv,,,,532.0,Danylo Beskorovainii,4-2-3-1,3-5-2,Andrii Kovalenko,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+20,2024-03-16,18:00,Premier League,Matchweek 21,Sat,Home,W,1,0,FK Kolos,,,,685.0,Danylo Beskorovainii,4-2-3-1,4-2-3-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+21,2024-03-30,18:00,Premier League,Matchweek 22,Sat,Away,W,2,0,Veres Rivne,,,,2328.0,Danylo Beskorovainii,4-2-3-1,4-4-2,Roman Blavatskiy,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+22,2024-04-08,18:00,Premier League,Matchweek 23,Mon,Home,D,1,1,Vorskla Poltava,,,,650.0,Dmytro Khomchenovskyi,4-2-3-1,4-3-3,Oleksii Derevinskyi,Match Report,,,,,1,1,2024,Kryvbas Kryvyi Rih
+23,2024-04-13,18:00,Premier League,Matchweek 24,Sat,Away,D,1,1,Рух,,,,1300.0,Danylo Beskorovainii,4-4-2,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+24,2024-04-20,15:30,Premier League,Matchweek 25,Sat,Away,W,2,1,Chornomorets Odesa,,,,,Dmytro Khomchenovskyi,4-2-3-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+25,2024-04-28,18:00,Premier League,Matchweek 26,Sun,Home,W,3,0,FK Metalist 1925 Kharkiv,,,,630.0,Dmytro Khomchenovskyi,4-2-3-1,4-3-3,Oleksandr Shandor,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+26,2024-05-06,13:00,Premier League,Matchweek 27,Mon,Away,L,0,1,SK Dnipro-1,,,,,Dmytro Khomchenovskyi,4-2-3-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+27,2024-05-12,19:15,Premier League,Matchweek 28,Sun,Home,L,0,1,FC Polissya Zhytomyr,,,,560.0,Dmytro Khomchenovskyi,4-2-3-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+28,2024-05-18,15:30,Premier League,Matchweek 29,Sat,Away,L,1,3,Dynamo Kyiv,,,,1800.0,Dmytro Khomchenovskyi,4-2-3-1,3-4-3,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Home,W,3,0,FK Mynai,,,,600.0,Dmytro Khomchenovskyi,4-2-3-1,5-3-2,Roman Blavatskiy,Match Report,,,,,0,0,2024,Kryvbas Kryvyi Rih
+2,2023-08-06,15:00,Premier League,Matchweek 2,Sun,Home,W,2,1,FC Polissya Zhytomyr,,,,,Oleksandr Pikhalyonok,4-2-3-1,4-2-3-1,Denys Shurman,Match Report,,,,,0,0,2024,SK Dnipro 1
+4,2023-08-13,13:00,Premier League,Matchweek 3,Sun,Away,D,1,1,FK Mynai,,,,,Oleksandr Pikhalyonok,4-2-3-1,5-4-1,Viktor Kopievskii,Match Report,,,,,1,2,2024,SK Dnipro 1
+6,2023-08-20,15:00,Premier League,Matchweek 4,Sun,Home,L,1,2,Obolon-Brovar Kyiv,,,,,Oleksandr Svatok,4-2-3-1,5-3-2,Mykola Balakin,Match Report,,,,,1,1,2024,SK Dnipro 1
+9,2023-09-03,13:00,Premier League,Matchweek 6,Sun,Home,D,0,0,FC LNZ Cherkasy,,,,,Oleksandr Svatok,4-2-3-1,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,SK Dnipro 1
+10,2023-09-17,15:00,Premier League,Matchweek 7,Sun,Home,D,1,1,FK Kolos,,,,,Oleksandr Svatok,4-2-3-1,3-4-3,Ihor Paskhal,Match Report,,,,,0,0,2024,SK Dnipro 1
+11,2023-09-24,15:00,Premier League,Matchweek 8,Sun,Away,W,1,0,Zorya Luhansk,,,,,Oleksandr Svatok,4-2-3-1,4-2-3-1,Kateryna Monzul,Match Report,,,,,0,0,2024,SK Dnipro 1
+12,2023-10-02,17:00,Premier League,Matchweek 9,Mon,Home,W,1,0,FK Metalist 1925 Kharkiv,,,,,Oleksandr Svatok,4-2-3-1,4-2-3-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,SK Dnipro 1
+13,2023-10-07,13:00,Premier League,Matchweek 10,Sat,Home,W,2,0,Veres Rivne,,,,,Oleksandr Svatok,4-2-3-1,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,SK Dnipro 1
+14,2023-10-22,17:00,Premier League,Matchweek 11,Sun,Away,W,1,0,Dynamo Kyiv,,,,,Oleksandr Svatok,4-2-3-1,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,SK Dnipro 1
+15,2023-10-25,15:00,Premier League,Matchweek 1,Wed,Away,W,3,2,Vorskla Poltava,,,,,Oleksandr Svatok,4-1-4-1,4-1-4-1,Kateryna Monzul,Match Report,,,,,0,0,2024,SK Dnipro 1
+16,2023-10-28,13:00,Premier League,Matchweek 12,Sat,Away,L,0,3,Kryvbas Kryvyi Rih,,,,,Oleksandr Pikhalyonok,4-1-4-1,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,0,1,2024,SK Dnipro 1
+17,2023-11-01,18:00,Premier League,Matchweek 5,Wed,Away,W,2,0,Рух,,,,,Oleksandr Svatok,4-4-1-1,4-1-4-1,Dmytro Kryvushkin,Match Report,,,,,0,0,2024,SK Dnipro 1
+18,2023-11-06,17:00,Premier League,Matchweek 13,Mon,Home,W,1,0,FC Oleksandriya,,,,,Oleksandr Svatok,4-2-3-1,4-3-3,Anastasia Romaniuk,Match Report,,,,,0,0,2024,SK Dnipro 1
+19,2023-11-12,19:00,Premier League,Matchweek 14,Sun,Away,W,3,1,Shakhtar,,,,,Oleksandr Svatok,4-2-3-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,SK Dnipro 1
+20,2023-11-27,17:00,Premier League,Matchweek 15,Mon,Home,W,5,2,Chornomorets Odesa,,,,,Oleksandr Svatok,4-1-4-1,4-1-4-1,Kateryna Monzul,Match Report,,,,,0,0,2024,SK Dnipro 1
+21,2023-12-02,17:00,Premier League,Matchweek 16,Sat,Home,L,1,2,Vorskla Poltava,,,,,Oleksandr Svatok,4-2-3-1,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,SK Dnipro 1
+22,2023-12-08,15:00,Premier League,Matchweek 17,Fri,Away,D,1,1,FC Polissya Zhytomyr,,,,,Oleksandr Svatok,4-1-4-1,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2024,SK Dnipro 1
+23,2024-02-25,13:00,Premier League,Matchweek 18,Sun,Home,D,1,1,FK Mynai,,,,,Oleksandr Pikhalyonok,4-2-3-1,5-3-2,Oleksandr Kalyonov,Match Report,,,,,1,1,2024,SK Dnipro 1
+24,2024-03-03,13:00,Premier League,Matchweek 19,Sun,Away,W,1,0,Obolon-Brovar Kyiv,,,,1500.0,Oleksandr Pikhalyonok,4-2-3-1,4-4-2,Ihor Paskhal,Match Report,,,,,0,0,2024,SK Dnipro 1
+25,2024-03-08,13:00,Premier League,Matchweek 20,Fri,Home,L,0,1,Рух,,,,,Oleksandr Pikhalyonok,4-1-4-1,4-1-4-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,SK Dnipro 1
+26,2024-03-12,13:00,Premier League,Matchweek 21,Tue,Away,D,1,1,FC LNZ Cherkasy,,,,,Oleksandr Pikhalyonok,4-1-4-1,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,SK Dnipro 1
+27,2024-03-31,18:00,Premier League,Matchweek 22,Sun,Away,W,2,0,FK Kolos,,,,494.0,Oleksandr Svatok,4-2-3-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,SK Dnipro 1
+28,2024-04-09,13:00,Premier League,Matchweek 23,Tue,Home,D,2,2,Zorya Luhansk,,,,,Oleksandr Svatok,4-2-3-1,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,SK Dnipro 1
+29,2024-04-15,18:00,Premier League,Matchweek 24,Mon,Away,D,1,1,FK Metalist 1925 Kharkiv,,,,,Oleksandr Svatok,4-1-4-1,4-3-3,Anastasia Romaniuk,Match Report,,,,,0,0,2024,SK Dnipro 1
+30,2024-04-21,13:00,Premier League,Matchweek 25,Sun,Away,D,1,1,Veres Rivne,,,,2301.0,Oleksandr Svatok,4-1-4-1,4-4-2,Klym Zabroda,Match Report,,,,,0,0,2024,SK Dnipro 1
+31,2024-04-27,13:00,Premier League,Matchweek 26,Sat,Home,L,1,2,Dynamo Kyiv,,,,,Oleksandr Svatok,3-4-3,4-2-3-1,Yury Ivanov,Match Report,,,,,0,0,2024,SK Dnipro 1
+32,2024-05-06,13:00,Premier League,Matchweek 27,Mon,Home,W,1,0,Kryvbas Kryvyi Rih,,,,,Oleksandr Svatok,4-1-4-1,4-2-3-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,SK Dnipro 1
+33,2024-05-12,13:00,Premier League,Matchweek 28,Sun,Away,L,0,1,FC Oleksandriya,,,,715.0,Oleksandr Svatok,4-2-3-1,4-3-3,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,SK Dnipro 1
+34,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Home,D,1,1,Shakhtar,,,,,Oleksandr Svatok,4-1-4-1,4-1-4-1,Denys Shurman,Match Report,,,,,0,0,2024,SK Dnipro 1
+35,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Away,W,2,0,Chornomorets Odesa,,,,,Oleksandr Svatok,4-2-3-1,4-4-2,Mykola Balakin,Match Report,,,,,0,0,2024,SK Dnipro 1
+0,2023-07-28,19:00,Premier League,Matchweek 1,Fri,Away,W,2,0,Veres Rivne,,,,,Vladyslav Ohirya,4-2-3-1,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+1,2023-08-06,15:00,Premier League,Matchweek 2,Sun,Away,L,1,2,SK Dnipro-1,,,,,Vladyslav Ohirya,4-2-3-1,4-2-3-1,Denys Shurman,Match Report,,,,,1,1,2024,FC Polissya Zhytomyr
+2,2023-08-12,17:00,Premier League,Matchweek 3,Sat,Home,L,0,1,Рух,,,,,Vladyslav Ohirya,4-2-3-1,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+3,2023-08-18,17:00,Premier League,Matchweek 4,Fri,Away,W,2,1,FC LNZ Cherkasy,,,,,Artem Kozak,4-2-3-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+4,2023-08-26,17:00,Premier League,Matchweek 5,Sat,Away,W,3,0,FC Oleksandriya,,,,,Artem Kozak,4-2-3-1,4-3-3,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+5,2023-09-02,15:00,Premier League,Matchweek 6,Sat,Home,W,2,0,Obolon-Brovar Kyiv,,,,,Pylyp Budkivskyi,4-2-3-1,4-2-3-1,Viktor Kopievskii,Match Report,,,,,1,1,2024,FC Polissya Zhytomyr
+6,2023-09-16,15:00,Premier League,Matchweek 7,Sat,Away,L,0,1,Chornomorets Odesa,,,,,Pylyp Budkivskyi,4-2-3-1,4-3-3,Kateryna Monzul,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+7,2023-09-23,15:00,Premier League,Matchweek 8,Sat,Home,W,2,1,FK Mynai,,,,,Vasyl Hrytsuk,4-2-3-1,4-4-2,Dmytro Evtukhov,Match Report,,,,,0,1,2024,FC Polissya Zhytomyr
+8,2023-10-01,17:00,Premier League,Matchweek 9,Sun,Away,D,0,0,FK Kolos,,,,,Vasyl Hrytsuk,4-2-3-1,3-4-3,Kateryna Monzul,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+9,2023-10-06,15:00,Premier League,Matchweek 10,Fri,Home,W,3,2,Dynamo Kyiv,,,,,Artem Kozak,4-1-4-1,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+10,2023-10-22,15:00,Premier League,Matchweek 11,Sun,Away,W,3,0,Vorskla Poltava,,,,,Vladyslav Ohirya,4-1-4-1,4-2-3-1,Yaroslav Kozyk,Match Report,,,,,1,1,2024,FC Polissya Zhytomyr
+11,2023-10-28,16:00,Premier League,Matchweek 12,Sat,Away,W,1,0,Zorya Luhansk,,,,,Artem Kozak,4-2-3-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+12,2023-11-06,15:00,Premier League,Matchweek 13,Mon,Home,D,1,1,Kryvbas Kryvyi Rih,,,,,Bohdan Kushnirenko,4-1-4-1,4-2-3-1,Kateryna Monzul,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+13,2023-11-11,15:00,Premier League,Matchweek 14,Sat,Home,W,2,1,FK Metalist 1925 Kharkiv,,,,,Artem Kozak,4-1-4-1,4-3-3,Yaroslav Kozyk,Match Report,,,,,1,1,2024,FC Polissya Zhytomyr
+14,2023-11-24,19:00,Premier League,Matchweek 15,Fri,Away,D,0,0,Shakhtar,,,,,Vasyl Hrytsuk,4-2-3-1,4-1-4-1,Ihor Paskhal,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+15,2023-12-01,17:00,Premier League,Matchweek 16,Fri,Home,D,1,1,Veres Rivne,,,,,Vasyl Hrytsuk,4-2-3-1,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+16,2023-12-08,15:00,Premier League,Matchweek 17,Fri,Home,D,1,1,SK Dnipro-1,,,,,Vasyl Hrytsuk,4-2-3-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+17,2024-02-25,18:00,Premier League,Matchweek 18,Sun,Away,D,1,1,Рух,,,,720.0,Vasyl Hrytsuk,4-2-3-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+18,2024-03-01,18:00,Premier League,Matchweek 19,Fri,Home,L,0,1,FC LNZ Cherkasy,,,,1470.0,Denys Boyko,4-2-3-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+19,2024-03-09,15:30,Premier League,Matchweek 20,Sat,Home,L,1,2,FC Oleksandriya,,,,1100.0,Denys Boyko,4-2-3-1,4-1-4-1,Yury Ivanov,Match Report,,,,,1,1,2024,FC Polissya Zhytomyr
+20,2024-03-16,15:30,Premier League,Matchweek 21,Sat,Away,L,0,1,Obolon-Brovar Kyiv,,,,1495.0,Denys Boyko,4-1-4-1,4-4-2,Denys Shurman,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+21,2024-03-30,15:30,Premier League,Matchweek 22,Sat,Home,L,1,4,Chornomorets Odesa,,,,1384.0,Denys Boyko,4-1-4-1,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+22,2024-04-08,13:00,Premier League,Matchweek 23,Mon,Away,W,3,2,FK Mynai,,,,700.0,Lucas Taylor,4-1-4-1,5-4-1,Ihor Paskhal,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+23,2024-04-14,18:00,Premier League,Matchweek 24,Sun,Home,W,1,0,FK Kolos,,,,2000.0,Lucas Taylor,4-1-4-1,3-4-3,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+24,2024-04-21,18:00,Premier League,Matchweek 25,Sun,Away,L,0,3,Dynamo Kyiv,,,,1593.0,Lucas Taylor,4-2-3-1,4-2-3-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+25,2024-04-29,18:00,Premier League,Matchweek 26,Mon,Home,W,1,0,Vorskla Poltava,,,,1370.0,Bohdan Maksymenko,4-1-4-1,5-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+26,2024-05-05,13:00,Premier League,Matchweek 27,Sun,Home,D,1,1,Zorya Luhansk,,,,970.0,Bohdan Mykhaylychenko,4-1-4-1,4-3-3,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+27,2024-05-12,19:15,Premier League,Matchweek 28,Sun,Away,W,1,0,Kryvbas Kryvyi Rih,,,,560.0,Bohdan Mykhaylychenko,4-2-3-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Away,D,3,3,FK Metalist 1925 Kharkiv,,,,477.0,Bohdan Mykhaylychenko,4-3-3,4-4-2,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Home,W,2,0,Shakhtar,,,,1751.0,Bohdan Mykhaylychenko,5-3-2,4-3-3,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,FC Polissya Zhytomyr
+0,2023-07-29,15:00,Premier League,Matchweek 1,Sat,Home,W,2,1,Zorya Luhansk,,,,,Marko Sapuha,4-4-1-1,4-4-1-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Rukh
+1,2023-08-06,19:00,Premier League,Matchweek 2,Sun,Home,W,4,1,Vorskla Poltava,,,,,Marko Sapuha,4-1-4-1,4-2-3-1,Vitalii Romanov,Match Report,,,,,1,1,2024,Rukh
+2,2023-08-12,17:00,Premier League,Matchweek 3,Sat,Away,W,1,0,FC Polissya Zhytomyr,,,,,Marko Sapuha,4-1-4-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Rukh
+3,2023-08-19,19:00,Premier League,Matchweek 4,Sat,Home,D,1,1,FK Kolos,,,,,Marko Sapuha,4-1-4-1,4-3-3,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,Rukh
+4,2023-09-03,19:00,Premier League,Matchweek 6,Sun,Home,D,1,1,FK Metalist 1925 Kharkiv,,,,,Marko Sapuha,4-1-4-1,4-1-4-1,Serhii Zadiran,Match Report,,,,,0,0,2024,Rukh
+5,2023-09-17,13:00,Premier League,Matchweek 7,Sun,Away,L,1,2,FC LNZ Cherkasy,,,,,Marko Sapuha,4-1-4-1,3-4-3,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Rukh
+6,2023-09-23,19:00,Premier League,Matchweek 8,Sat,Home,D,1,1,Shakhtar,,,,,Yuriy Klymchuk,4-1-4-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Rukh
+7,2023-10-01,16:00,Premier League,Matchweek 9,Sun,Away,W,3,1,Kryvbas Kryvyi Rih,,,,,Marko Sapuha,4-3-3,4-2-3-1,Dmytro Bondarenko,Match Report,,,,,1,1,2024,Rukh
+8,2023-10-08,15:00,Premier League,Matchweek 10,Sun,Home,D,0,0,FK Mynai,,,,,Marko Sapuha,4-1-4-1,4-1-4-1,Oleksandr Solovyan,Match Report,,,,,0,0,2024,Rukh
+9,2023-10-22,13:00,Premier League,Matchweek 11,Sun,Away,W,5,2,Veres Rivne,,,,,Marko Sapuha,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Rukh
+10,2023-10-28,18:00,Premier League,Matchweek 12,Sat,Home,D,0,0,FC Oleksandriya,,,,,Marko Sapuha,4-1-4-1,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2024,Rukh
+11,2023-11-01,18:00,Premier League,Matchweek 5,Wed,Home,L,0,2,SK Dnipro-1,,,,,Marko Sapuha,4-1-4-1,4-4-1-1,Dmytro Kryvushkin,Match Report,,,,,0,0,2024,Rukh
+12,2023-11-06,19:00,Premier League,Matchweek 13,Mon,Home,D,2,2,Obolon-Brovar Kyiv,,,,,Marko Sapuha,4-5-1,3-4-3,Dmitriy Kubryak,Match Report,,,,,0,0,2024,Rukh
+13,2023-11-12,17:00,Premier League,Matchweek 14,Sun,Away,W,3,2,Chornomorets Odesa,,,,,Marko Sapuha,4-1-4-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,1,1,2024,Rukh
+14,2023-11-26,15:00,Premier League,Matchweek 15,Sun,Away,L,0,2,Dynamo Kyiv,,,,,Marko Sapuha,4-1-4-1,4-2-3-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,Rukh
+15,2023-12-04,13:00,Premier League,Matchweek 16,Mon,Away,D,0,0,Zorya Luhansk,,,,,Marko Sapuha,4-1-4-1,4-2-3-1,Klym Zabroda,Match Report,,,,,0,0,2024,Rukh
+16,2023-12-10,13:00,Premier League,Matchweek 17,Sun,Away,D,1,1,Vorskla Poltava,,,,,Marko Sapuha,4-3-3,4-2-3-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Rukh
+17,2024-02-25,18:00,Premier League,Matchweek 18,Sun,Home,D,1,1,FC Polissya Zhytomyr,,,,720.0,Yuriy Klymchuk,4-1-4-1,4-2-3-1,Mykola Balakin,Match Report,,,,,1,1,2024,Rukh
+18,2024-03-02,18:00,Premier League,Matchweek 19,Sat,Away,W,1,0,FK Kolos,,,,476.0,Yuriy Klymchuk,4-1-4-1,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Rukh
+19,2024-03-08,13:00,Premier League,Matchweek 20,Fri,Away,W,1,0,SK Dnipro-1,,,,,Yuriy Klymchuk,4-1-4-1,4-1-4-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,Rukh
+20,2024-03-16,13:00,Premier League,Matchweek 21,Sat,Away,W,4,1,FK Metalist 1925 Kharkiv,,,,,Denys Pidgurskyi,4-5-1,4-3-3,Klym Zabroda,Match Report,,,,,1,1,2024,Rukh
+21,2024-04-01,18:00,Premier League,Matchweek 22,Mon,Home,W,1,0,FC LNZ Cherkasy,,,,980.0,Denys Pidgurskyi,4-1-4-1,4-1-4-1,Oleksandr Solovyan,Match Report,,,,,1,1,2024,Rukh
+22,2024-04-07,18:00,Premier League,Matchweek 23,Sun,Away,L,1,3,Shakhtar,,,,1191.0,Roman Didyk,4-1-4-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Rukh
+23,2024-04-13,18:00,Premier League,Matchweek 24,Sat,Home,D,1,1,Kryvbas Kryvyi Rih,,,,1300.0,Roman Didyk,4-1-4-1,4-4-2,Mykola Balakin,Match Report,,,,,0,0,2024,Rukh
+24,2024-04-22,13:00,Premier League,Matchweek 25,Mon,Away,D,1,1,FK Mynai,,,,250.0,Roman Didyk,4-3-3,5-4-1,Dmytro Evtukhov,Match Report,,,,,0,0,2024,Rukh
+25,2024-04-27,18:00,Premier League,Matchweek 26,Sat,Home,W,3,1,Veres Rivne,,,,1280.0,Oleksii Sych,4-1-4-1,4-2-3-1,Oleksandr Solovyan,Match Report,,,,,0,0,2024,Rukh
+26,2024-05-04,13:00,Premier League,Matchweek 27,Sat,Away,D,2,2,FC Oleksandriya,,,,68.0,Denys Pidgurskyi,4-1-4-1,4-1-4-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Rukh
+27,2024-05-11,15:30,Premier League,Matchweek 28,Sat,Away,D,0,0,Obolon-Brovar Kyiv,,,,700.0,Denys Pidgurskyi,4-1-4-1,4-4-2,Oleksandr Shandor,Match Report,,,,,0,0,2024,Rukh
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Home,W,2,0,Chornomorets Odesa,,,,1150.0,Denys Pidgurskyi,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,1,2024,Rukh
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Home,L,1,2,Dynamo Kyiv,,,,1500.0,Roman Didyk,4-3-3,4-3-3,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Rukh
+0,2023-07-30,15:00,Premier League,Matchweek 1,Sun,Home,L,0,2,Chornomorets Odesa,,,,,Maksym Lopyryonok,4-3-3,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+1,2023-08-05,15:00,Premier League,Matchweek 2,Sat,Away,W,3,0,FK Mynai,,,,,Maksym Lopyryonok,4-1-4-1,5-4-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+2,2023-08-13,17:00,Premier League,Matchweek 3,Sun,Away,L,0,2,Kryvbas Kryvyi Rih,,,,,Maksym Lopyryonok,4-5-1,4-2-3-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+3,2023-08-18,17:00,Premier League,Matchweek 4,Fri,Home,L,1,2,FC Polissya Zhytomyr,,,,,Maksym Lopyryonok,4-1-4-1,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+4,2023-08-26,15:00,Premier League,Matchweek 5,Sat,Home,L,0,1,FK Metalist 1925 Kharkiv,,,,,Maksym Lopyryonok,4-2-3-1,4-1-4-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+5,2023-09-03,13:00,Premier League,Matchweek 6,Sun,Away,D,0,0,SK Dnipro-1,,,,,Maksym Lopyryonok,4-2-3-1,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+6,2023-09-17,13:00,Premier League,Matchweek 7,Sun,Home,W,2,1,Рух,,,,,Maksym Lopyryonok,3-4-3,4-1-4-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+7,2023-09-23,13:00,Premier League,Matchweek 8,Sat,Home,L,2,4,Dynamo Kyiv,,,,,Maksym Lopyryonok,3-4-3,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,1,1,2024,FC LNZ Cherkasy
+8,2023-09-30,15:00,Premier League,Matchweek 9,Sat,Away,D,0,0,Veres Rivne,,,,,Maksym Lopyryonok,5-4-1,4-4-2,Yaroslav Kozyk,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+9,2023-10-07,15:00,Premier League,Matchweek 10,Sat,Home,D,0,0,FC Oleksandriya,,,,,Vitalii Boiko,3-4-3,4-2-3-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+10,2023-10-21,17:00,Premier League,Matchweek 11,Sat,Away,L,0,3,Shakhtar,,,,,Vitalii Boiko,4-2-3-1,4-1-4-1,Kateryna Monzul,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+11,2023-10-29,13:00,Premier League,Matchweek 12,Sun,Home,W,3,0,Obolon-Brovar Kyiv,,,,,Vitalii Boiko,5-3-2,4-4-2,Roman Blavatskiy,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+12,2023-11-04,13:00,Premier League,Matchweek 13,Sat,Home,D,1,1,FK Kolos,,,,,Vitalii Boiko,3-4-3,3-4-3,Nazarii Dord,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+13,2023-11-12,14:00,Premier League,Matchweek 14,Sun,Away,W,2,1,Zorya Luhansk,,,,,Vitalii Boiko,3-4-3,4-1-4-1,Sofia Prychyna,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+14,2023-11-25,17:00,Premier League,Matchweek 15,Sat,Away,D,0,0,Vorskla Poltava,,,,,Vitalii Boiko,3-5-2,4-2-3-1,Denys Shurman,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+15,2023-12-03,15:00,Premier League,Matchweek 16,Sun,Away,W,3,1,Chornomorets Odesa,,,,,Vitalii Boiko,4-3-3,4-3-3,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+16,2024-02-23,15:30,Premier League,Matchweek 18,Fri,Home,L,0,3,Kryvbas Kryvyi Rih,,,,,Vitalii Boiko,3-4-3,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+17,2024-03-01,18:00,Premier League,Matchweek 19,Fri,Away,W,1,0,FC Polissya Zhytomyr,,,,1470.0,Serhiy Rybalka,4-1-4-1,4-2-3-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+18,2024-03-08,15:30,Premier League,Matchweek 20,Fri,Away,D,1,1,FK Metalist 1925 Kharkiv,,,,263.0,Serhiy Rybalka,4-3-3,4-1-3-2,Serhii Zadiran,Match Report,,,,,1,1,2024,FC LNZ Cherkasy
+19,2024-03-12,13:00,Premier League,Matchweek 21,Tue,Home,D,1,1,SK Dnipro-1,,,,,Serhiy Rybalka,4-1-4-1,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+20,2024-03-23,15:30,Premier League,Matchweek 17,Sat,Home,L,1,2,FK Mynai,,,,400.0,Serhiy Rybalka,3-5-2,3-4-3,Dmitriy Kubryak,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+21,2024-04-01,18:00,Premier League,Matchweek 22,Mon,Away,L,0,1,Рух,,,,980.0,Vitalii Boiko,4-1-4-1,4-1-4-1,Oleksandr Solovyan,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+22,2024-04-08,15:30,Premier League,Matchweek 23,Mon,Away,D,1,1,Dynamo Kyiv,,,,1540.0,Vitalii Boiko,3-4-3,4-2-3-1,Yury Ivanov,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+23,2024-04-15,15:30,Premier League,Matchweek 24,Mon,Home,W,1,0,Veres Rivne,,,,380.0,Nazarii Muravskyi,4-2-3-1,4-1-4-1,Mykhailo Raida,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+24,2024-04-21,15:30,Premier League,Matchweek 25,Sun,Away,W,2,1,FC Oleksandriya,,,,573.0,Vitalii Boiko,3-4-3,4-3-3,Serhii Zadiran,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+25,2024-04-27,15:30,Premier League,Matchweek 26,Sat,Home,L,0,3,Shakhtar,,,,435.0,Serhiy Rybalka,4-2-3-1,4-3-3,Viktor Kopievskii,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+26,2024-05-04,15:30,Premier League,Matchweek 27,Sat,Away,L,0,1,Obolon-Brovar Kyiv,,,,697.0,Serhiy Rybalka,5-3-2,4-4-2,Dmitriy Kubryak,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+27,2024-05-13,15:30,Premier League,Matchweek 28,Mon,Away,W,3,1,FK Kolos,,,,472.0,Vitalii Boiko,3-4-3,4-1-4-1,Denys Reznikov,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+28,2024-05-19,13:00,Premier League,Matchweek 29,Sun,Home,W,2,1,Zorya Luhansk,,,,387.0,Nazarii Muravskyi,4-1-4-1,4-1-4-1,Serhii Zadiran,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+29,2024-05-24,15:30,Premier League,Matchweek 30,Fri,Home,W,1,0,Vorskla Poltava,,,,437.0,Vitalii Boiko,4-1-4-1,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,FC LNZ Cherkasy
+0,2023-07-30,19:00,Premier League,Matchweek 1,Sun,Home,W,1,0,Kryvbas Kryvyi Rih,,,,,Vladyslav Babohlo,4-1-4-1,4-4-2,Yaroslav Kozyk,Match Report,,,,,0,0,2024,FC Oleksandriya
+1,2023-08-05,19:00,Premier League,Matchweek 2,Sat,Home,W,1,0,FK Metalist 1925 Kharkiv,,,,,Vladyslav Babohlo,4-2-3-1,4-3-3,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,FC Oleksandriya
+2,2023-08-14,17:00,Premier League,Matchweek 3,Mon,Away,L,1,2,Shakhtar,,,,,Vladyslav Babohlo,4-3-3,4-3-3,Denys Shurman,Match Report,,,,,0,0,2024,FC Oleksandriya
+3,2023-08-18,19:00,Premier League,Matchweek 4,Fri,Away,D,0,0,Zorya Luhansk,,,,,Kyrylo Kovalets,4-1-4-1,5-3-2,Yury Ivanov,Match Report,,,,,0,0,2024,FC Oleksandriya
+4,2023-08-26,17:00,Premier League,Matchweek 5,Sat,Home,L,0,3,FC Polissya Zhytomyr,,,,,Kyrylo Kovalets,4-3-3,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FC Oleksandriya
+5,2023-09-02,17:00,Premier League,Matchweek 6,Sat,Away,L,0,1,Vorskla Poltava,,,,,Vladyslav Kalitvintsev,4-2-3-1,4-1-4-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,FC Oleksandriya
+6,2023-09-16,19:00,Premier League,Matchweek 7,Sat,Home,D,1,1,FK Mynai,,,,,Kyrylo Kovalets,4-2-3-1,5-4-1,Oleksandr Shandor,Match Report,,,,,1,1,2024,FC Oleksandriya
+7,2023-09-22,19:00,Premier League,Matchweek 8,Fri,Home,L,1,5,Chornomorets Odesa,,,,,Kyrylo Kovalets,4-2-3-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,FC Oleksandriya
+8,2023-10-01,19:00,Premier League,Matchweek 9,Sun,Away,L,2,4,Dynamo Kyiv,,,,,Kyrylo Kovalets,3-4-3,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FC Oleksandriya
+9,2023-10-07,15:00,Premier League,Matchweek 10,Sat,Away,D,0,0,FC LNZ Cherkasy,,,,,Vladyslav Kalitvintsev,4-2-3-1,3-4-3,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,FC Oleksandriya
+10,2023-10-21,19:00,Premier League,Matchweek 11,Sat,Home,L,0,1,FK Kolos,,,,,Kyrylo Kovalets,4-1-4-1,3-4-3,Dmytro Kryvushkin,Match Report,,,,,0,0,2024,FC Oleksandriya
+11,2023-10-28,18:00,Premier League,Matchweek 12,Sat,Away,D,0,0,Рух,,,,,Vladyslav Kalitvintsev,4-2-3-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,FC Oleksandriya
+12,2023-11-06,17:00,Premier League,Matchweek 13,Mon,Away,L,0,1,SK Dnipro-1,,,,,Serhiy Lohinov,4-3-3,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,FC Oleksandriya
+13,2023-11-11,17:00,Premier League,Matchweek 14,Sat,Home,W,1,0,Veres Rivne,,,,,Mykyta Shevchenko,4-3-3,4-5-1,Oleksandr Solovyan,Match Report,,,,,0,1,2024,FC Oleksandriya
+14,2023-12-02,15:00,Premier League,Matchweek 16,Sat,Away,L,1,2,Kryvbas Kryvyi Rih,,,,,Anton Kravchenko,4-5-1,4-2-3-1,Yury Ivanov,Match Report,,,,,0,0,2024,FC Oleksandriya
+15,2023-12-11,14:00,Premier League,Matchweek 17,Mon,Away,W,3,0,FK Metalist 1925 Kharkiv,,,,,Mykyta Shevchenko,4-2-3-1,4-1-4-1,Oleksandr Solovyan,Match Report,,,,,0,0,2024,FC Oleksandriya
+16,2024-02-26,13:00,Premier League,Matchweek 18,Mon,Home,L,0,3,Shakhtar,,,,573.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Denys Shurman,Match Report,Match awarded to Shakhtar,,,,0,0,2024,FC Oleksandriya
+17,2024-03-03,15:30,Premier League,Matchweek 19,Sun,Home,D,0,0,Zorya Luhansk,,,,769.0,Kyrylo Kovalets,4-2-3-1,4-3-3,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,FC Oleksandriya
+18,2024-03-09,15:30,Premier League,Matchweek 20,Sat,Away,W,2,1,FC Polissya Zhytomyr,,,,1100.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Yury Ivanov,Match Report,,,,,0,0,2024,FC Oleksandriya
+19,2024-03-15,18:00,Premier League,Matchweek 21,Fri,Home,W,1,0,Vorskla Poltava,,,,509.0,Kyrylo Kovalets,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,FC Oleksandriya
+20,2024-03-31,13:00,Premier League,Matchweek 22,Sun,Away,D,2,2,FK Mynai,,,,680.0,Kyrylo Kovalets,4-2-3-1,5-4-1,Dmytro Kryvushkin,Match Report,,,,,0,1,2024,FC Oleksandriya
+21,2024-04-07,13:00,Premier League,Matchweek 23,Sun,Away,L,2,3,Chornomorets Odesa,,,,,Vladyslav Kalitvintsev,4-1-4-1,4-1-4-1,Denys Shurman,Match Report,,,,,0,0,2024,FC Oleksandriya
+22,2024-04-13,15:30,Premier League,Matchweek 24,Sat,Home,L,0,1,Dynamo Kyiv,,,,1180.0,Kyrylo Kovalets,4-1-4-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,FC Oleksandriya
+23,2024-04-17,18:00,Premier League,Matchweek 15,Wed,Home,D,2,2,Obolon-Brovar Kyiv,,,,557.0,Kyrylo Kovalets,4-3-3,4-4-2,Yaroslav Kozyk,Match Report,,,,,1,2,2024,FC Oleksandriya
+24,2024-04-21,15:30,Premier League,Matchweek 25,Sun,Home,L,1,2,FC LNZ Cherkasy,,,,573.0,Kyrylo Kovalets,4-3-3,3-4-3,Serhii Zadiran,Match Report,,,,,0,0,2024,FC Oleksandriya
+25,2024-04-28,15:30,Premier League,Matchweek 26,Sun,Away,D,0,0,FK Kolos,,,,489.0,Kyrylo Kovalets,4-1-4-1,4-2-3-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,FC Oleksandriya
+26,2024-05-04,13:00,Premier League,Matchweek 27,Sat,Home,D,2,2,Рух,,,,68.0,Kyrylo Kovalets,4-1-4-1,4-1-4-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,FC Oleksandriya
+27,2024-05-12,13:00,Premier League,Matchweek 28,Sun,Home,W,1,0,SK Dnipro-1,,,,715.0,Kyrylo Kovalets,4-3-3,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,FC Oleksandriya
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Away,D,2,2,Veres Rivne,,,,2800.0,Kyrylo Kovalets,4-1-4-1,4-4-2,Oleksandr Kalyonov,Match Report,,,,,2,2,2024,FC Oleksandriya
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Away,W,3,0,Obolon-Brovar Kyiv,,,,900.0,Kyrylo Kovalets,4-1-4-1,4-4-2,Vitalii Romanov,Match Report,,,,,0,0,2024,FC Oleksandriya
+2,2023-08-06,19:00,Premier League,Matchweek 2,Sun,Away,L,1,4,Рух,,,,,Oleksandr Sklyar,4-2-3-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Vorskla Poltava
+3,2023-08-13,15:00,Premier League,Matchweek 3,Sun,Home,L,1,2,Zorya Luhansk,,,,,Volodymyr Chesnakov,4-2-3-1,4-3-2-1,Dmytro Bondarenko,Match Report,,,,,0,0,2024,Vorskla Poltava
+4,2023-08-19,15:00,Premier League,Matchweek 4,Sat,Away,W,2,1,Veres Rivne,,,,,Volodymyr Chesnakov,5-3-2,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Vorskla Poltava
+5,2023-08-27,17:00,Premier League,Matchweek 5,Sun,Home,W,2,1,Chornomorets Odesa,,,,,Ihor Perduta,4-2-3-1,4-5-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Vorskla Poltava
+6,2023-09-02,17:00,Premier League,Matchweek 6,Sat,Home,W,1,0,FC Oleksandriya,,,,,Ihor Perduta,4-1-4-1,4-2-3-1,Roman Blavatskiy,Match Report,,,,,1,1,2024,Vorskla Poltava
+7,2023-09-18,17:00,Premier League,Matchweek 7,Mon,Away,L,0,2,Dynamo Kyiv,,,,,Ihor Perduta,4-2-3-1,4-2-3-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Vorskla Poltava
+8,2023-09-23,17:00,Premier League,Matchweek 8,Sat,Home,L,1,4,Kryvbas Kryvyi Rih,,,,,Ihor Perduta,4-4-2,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Vorskla Poltava
+9,2023-09-30,17:00,Premier League,Matchweek 9,Sat,Away,W,2,1,Shakhtar,,,,,Ihor Perduta,4-2-3-1,4-3-3,Viktor Kopievskii,Match Report,,,,,1,1,2024,Vorskla Poltava
+10,2023-10-07,17:00,Premier League,Matchweek 10,Sat,Away,D,0,0,FK Kolos,,,,,Ihor Perduta,4-1-4-1,5-3-2,Yury Ivanov,Match Report,,,,,0,0,2024,Vorskla Poltava
+11,2023-10-22,15:00,Premier League,Matchweek 11,Sun,Home,L,0,3,FC Polissya Zhytomyr,,,,,Ihor Perduta,4-2-3-1,4-1-4-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Vorskla Poltava
+12,2023-10-25,15:00,Premier League,Matchweek 1,Wed,Home,L,2,3,SK Dnipro-1,,,,,Ihor Perduta,4-1-4-1,4-1-4-1,Kateryna Monzul,Match Report,,,,,1,1,2024,Vorskla Poltava
+13,2023-10-29,15:00,Premier League,Matchweek 12,Sun,Home,D,2,2,FK Metalist 1925 Kharkiv,,,,,Ihor Perduta,4-2-3-1,4-1-4-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Vorskla Poltava
+14,2023-11-05,13:00,Premier League,Matchweek 13,Sun,Away,D,0,0,FK Mynai,,,,,Volodymyr Chesnakov,4-4-1-1,4-2-3-1,Serhii Zadiran,Match Report,,,,,0,1,2024,Vorskla Poltava
+15,2023-11-11,13:00,Premier League,Matchweek 14,Sat,Away,W,1,0,Obolon-Brovar Kyiv,,,,,Ihor Perduta,4-3-3,3-5-2,Kristina Kozorog,Match Report,,,,,1,1,2024,Vorskla Poltava
+16,2023-11-25,17:00,Premier League,Matchweek 15,Sat,Home,D,0,0,FC LNZ Cherkasy,,,,,Ihor Perduta,4-2-3-1,3-5-2,Denys Shurman,Match Report,,,,,0,0,2024,Vorskla Poltava
+17,2023-12-02,17:00,Premier League,Matchweek 16,Sat,Away,W,2,1,SK Dnipro-1,,,,,Ihor Perduta,4-2-3-1,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Vorskla Poltava
+18,2023-12-10,13:00,Premier League,Matchweek 17,Sun,Home,D,1,1,Рух,,,,,Ihor Perduta,4-2-3-1,4-3-3,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Vorskla Poltava
+19,2024-02-26,13:00,Premier League,Matchweek 18,Mon,Away,L,0,1,Zorya Luhansk,,,,,Ihor Perduta,4-1-4-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Vorskla Poltava
+20,2024-03-02,15:30,Premier League,Matchweek 19,Sat,Home,W,2,1,Veres Rivne,,,,940.0,Ihor Perduta,4-1-4-1,4-2-3-1,Klym Zabroda,Match Report,,,,,0,0,2024,Vorskla Poltava
+21,2024-03-09,13:00,Premier League,Matchweek 20,Sat,Away,W,1,0,Chornomorets Odesa,,,,,Ihor Perduta,4-2-3-1,4-3-3,Dmytro Evtukhov,Match Report,,,,,0,0,2024,Vorskla Poltava
+22,2024-03-15,18:00,Premier League,Matchweek 21,Fri,Away,L,0,1,FC Oleksandriya,,,,509.0,Ihor Perduta,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Vorskla Poltava
+23,2024-03-31,15:30,Premier League,Matchweek 22,Sun,Home,L,1,5,Dynamo Kyiv,,,,2800.0,Ruslan Stepanyuk,4-2-3-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Vorskla Poltava
+24,2024-04-08,18:00,Premier League,Matchweek 23,Mon,Away,D,1,1,Kryvbas Kryvyi Rih,,,,650.0,Ihor Perduta,4-3-3,4-2-3-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Vorskla Poltava
+25,2024-04-14,13:00,Premier League,Matchweek 24,Sun,Home,L,0,1,Shakhtar,,,,2682.0,Ihor Perduta,5-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Vorskla Poltava
+26,2024-04-20,18:00,Premier League,Matchweek 25,Sat,Home,L,0,2,FK Kolos,,,,525.0,Ihor Perduta,4-2-3-1,4-5-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,Vorskla Poltava
+27,2024-04-29,18:00,Premier League,Matchweek 26,Mon,Away,L,0,1,FC Polissya Zhytomyr,,,,1370.0,Ihor Perduta,5-4-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,Vorskla Poltava
+28,2024-05-04,18:00,Premier League,Matchweek 27,Sat,Away,L,2,3,FK Metalist 1925 Kharkiv,,,,315.0,Ihor Perduta,4-4-2,4-4-2,Mykhailo Raida,Match Report,,,,,1,1,2024,Vorskla Poltava
+29,2024-05-11,13:00,Premier League,Matchweek 28,Sat,Home,L,2,3,FK Mynai,,,,570.0,Ihor Perduta,4-4-2,3-4-3,Nazarii Dord,Match Report,,,,,0,1,2024,Vorskla Poltava
+30,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Home,W,3,1,Obolon-Brovar Kyiv,,,,395.0,Ihor Perduta,4-2-3-1,4-4-2,Andrii Kovalenko,Match Report,,,,,0,0,2024,Vorskla Poltava
+31,2024-05-24,15:30,Premier League,Matchweek 30,Fri,Away,L,0,1,FC LNZ Cherkasy,,,,437.0,Ihor Perduta,4-2-3-1,4-1-4-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Vorskla Poltava
+0,2023-07-29,15:00,Premier League,Matchweek 1,Sat,Away,L,1,2,Рух,,,,,Kyrylo Dryshlyuk,4-4-1-1,4-4-1-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Zorya Luhansk
+1,2023-08-06,17:00,Premier League,Matchweek 2,Sun,Home,L,1,3,Kryvbas Kryvyi Rih,,,,,Dmytro Myshnyov,4-2-3-1,4-2-3-1,Mykola Balakin,Match Report,,,,,1,1,2024,Zorya Luhansk
+2,2023-08-13,15:00,Premier League,Matchweek 3,Sun,Away,W,2,1,Vorskla Poltava,,,,,Dmytro Myshnyov,4-3-2-1,4-2-3-1,Dmytro Bondarenko,Match Report,,,,,0,0,2024,Zorya Luhansk
+3,2023-08-18,19:00,Premier League,Matchweek 4,Fri,Home,D,0,0,FC Oleksandriya,,,,,Dmytro Myshnyov,5-3-2,4-1-4-1,Yury Ivanov,Match Report,,,,,0,0,2024,Zorya Luhansk
+5,2023-08-27,13:00,Premier League,Matchweek 5,Sun,Away,D,1,1,FK Mynai,,,,,Denys Antiukh,5-4-1,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,Zorya Luhansk
+7,2023-09-15,18:30,Premier League,Matchweek 7,Fri,Away,L,1,2,FK Metalist 1925 Kharkiv,,,,,Dmytro Myshnyov,4-4-2,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2024,Zorya Luhansk
+9,2023-09-24,15:00,Premier League,Matchweek 8,Sun,Home,L,0,1,SK Dnipro-1,,,,,Dmytro Myshnyov,4-2-3-1,4-2-3-1,Kateryna Monzul,Match Report,,,,,0,0,2024,Zorya Luhansk
+10,2023-09-30,19:00,Premier League,Matchweek 9,Sat,Away,D,0,0,Chornomorets Odesa,,,,,Dmytro Myshnyov,5-4-1,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2024,Zorya Luhansk
+12,2023-10-20,17:00,Premier League,Matchweek 11,Fri,Away,W,4,2,Obolon-Brovar Kyiv,,,,,Oleh Danchenko,4-3-3,5-3-2,Ihor Paskhal,Match Report,,,,,1,1,2024,Zorya Luhansk
+13,2023-10-28,16:00,Premier League,Matchweek 12,Sat,Home,L,0,1,FC Polissya Zhytomyr,,,,,Oleh Danchenko,4-2-3-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Zorya Luhansk
+14,2023-11-05,17:00,Premier League,Matchweek 13,Sun,Away,D,2,2,Veres Rivne,,,,,Oleh Danchenko,4-1-4-1,4-2-3-1,Denys Reznikov,Match Report,,,,,0,0,2024,Zorya Luhansk
+16,2023-11-12,14:00,Premier League,Matchweek 14,Sun,Home,L,1,2,FC LNZ Cherkasy,,,,,Oleh Danchenko,4-1-4-1,3-4-3,Sofia Prychyna,Match Report,,,,,0,0,2024,Zorya Luhansk
+19,2023-12-04,13:00,Premier League,Matchweek 16,Mon,Home,D,0,0,Рух,,,,,Vyacheslav Churko,4-2-3-1,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2024,Zorya Luhansk
+20,2023-12-09,15:00,Premier League,Matchweek 17,Sat,Away,D,2,2,Kryvbas Kryvyi Rih,,,,,Vyacheslav Churko,4-2-3-1,4-1-4-1,Dmytro Bondarenko,Match Report,,,,,0,0,2024,Zorya Luhansk
+22,2024-02-26,13:00,Premier League,Matchweek 18,Mon,Home,W,1,0,Vorskla Poltava,,,,,Bohdan Butko,4-2-3-1,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Zorya Luhansk
+23,2024-03-03,15:30,Premier League,Matchweek 19,Sun,Away,D,0,0,FC Oleksandriya,,,,769.0,Bohdan Butko,4-3-3,4-2-3-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Zorya Luhansk
+24,2024-03-07,15:30,Premier League,Matchweek 20,Thu,Home,W,2,0,FK Mynai,,,,,Bohdan Butko,4-2-3-1,5-3-2,Dmytro Bondarenko,Match Report,,,,,0,0,2024,Zorya Luhansk
+25,2024-03-12,15:30,Premier League,Matchweek 21,Tue,Away,L,0,2,Dynamo Kyiv,,,,1800.0,Jakov Basic,4-2-3-1,4-3-3,Vitalii Romanov,Match Report,,,,,0,0,2024,Zorya Luhansk
+26,2024-03-31,15:30,Premier League,Matchweek 22,Sun,Home,W,2,1,FK Metalist 1925 Kharkiv,,,,,Bohdan Butko,4-2-3-1,4-3-3,Denys Reznikov,Match Report,,,,,0,0,2024,Zorya Luhansk
+27,2024-04-04,15:30,Premier League,Matchweek 6,Thu,Home,L,0,3,Dynamo Kyiv,,,,1540.0,Bohdan Butko,4-1-4-1,4-2-3-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Zorya Luhansk
+28,2024-04-09,13:00,Premier League,Matchweek 23,Tue,Away,D,2,2,SK Dnipro-1,,,,,Bohdan Butko,4-2-3-1,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Zorya Luhansk
+29,2024-04-14,15:30,Premier League,Matchweek 24,Sun,Home,W,1,0,Chornomorets Odesa,,,,1060.0,Bohdan Butko,4-1-4-1,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,Zorya Luhansk
+30,2024-04-18,15:30,Premier League,Matchweek 10,Thu,Home,L,1,3,Shakhtar,,,,457.0,Bohdan Butko,4-4-2,4-1-4-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Zorya Luhansk
+31,2024-04-22,18:00,Premier League,Matchweek 25,Mon,Away,L,1,2,Shakhtar,,,,814.0,Bohdan Butko,4-2-3-1,4-1-4-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Zorya Luhansk
+32,2024-04-28,13:00,Premier League,Matchweek 26,Sun,Home,D,0,0,Obolon-Brovar Kyiv,,,,,Bohdan Butko,4-2-3-1,4-4-2,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,Zorya Luhansk
+33,2024-05-05,13:00,Premier League,Matchweek 27,Sun,Away,D,1,1,FC Polissya Zhytomyr,,,,970.0,Bohdan Butko,4-3-3,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,Zorya Luhansk
+34,2024-05-09,15:30,Premier League,Matchweek 15,Thu,Away,W,1,0,FK Kolos,,,,412.0,Bohdan Butko,4-3-3,4-1-4-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,Zorya Luhansk
+35,2024-05-13,18:00,Premier League,Matchweek 28,Mon,Home,D,1,1,Veres Rivne,,,,183.0,Bohdan Butko,4-1-4-1,4-4-2,Dmitriy Kubryak,Match Report,,,,,0,0,2024,Zorya Luhansk
+36,2024-05-19,13:00,Premier League,Matchweek 29,Sun,Away,L,1,2,FC LNZ Cherkasy,,,,387.0,Bohdan Butko,4-1-4-1,4-1-4-1,Serhii Zadiran,Match Report,,,,,0,0,2024,Zorya Luhansk
+37,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Home,L,0,1,FK Kolos,,,,412.0,Dmytro Matsapura,4-1-4-1,4-5-1,Mykhailo Raida,Match Report,,,,,0,0,2024,Zorya Luhansk
+0,2023-07-28,17:00,Premier League,Matchweek 1,Fri,Away,D,0,0,Obolon-Brovar Kyiv,,,,,Andriy Bohdanov,4-3-3,4-4-2,Dmytro Bondarenko,Match Report,,,,,0,0,2024,FK Kolos
+1,2023-08-06,17:00,Premier League,Matchweek 2,Sun,Home,W,2,0,Chornomorets Odesa,,,,,Andriy Bohdanov,4-3-3,4-2-3-1,Dmytro Kryvushkin,Match Report,,,,,0,0,2024,FK Kolos
+2,2023-08-12,17:00,Premier League,Matchweek 3,Sat,Home,W,2,0,Veres Rivne,,,,,Andriy Bohdanov,3-4-3,4-2-3-1,Andrii Kovalenko,Match Report,,,,,1,1,2024,FK Kolos
+3,2023-08-19,19:00,Premier League,Matchweek 4,Sat,Away,D,1,1,Рух,,,,,Andriy Bohdanov,4-3-3,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,FK Kolos
+4,2023-08-27,15:00,Premier League,Matchweek 5,Sun,Home,L,0,2,Shakhtar,,,,,Andriy Bohdanov,3-4-3,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2024,FK Kolos
+5,2023-09-03,17:00,Premier League,Matchweek 6,Sun,Home,L,0,3,Kryvbas Kryvyi Rih,,,,,Andriy Bohdanov,3-4-3,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FK Kolos
+6,2023-09-17,15:00,Premier League,Matchweek 7,Sun,Away,D,1,1,SK Dnipro-1,,,,,Vadym Milko,3-4-3,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2024,FK Kolos
+7,2023-09-24,17:00,Premier League,Matchweek 8,Sun,Away,D,0,0,FK Metalist 1925 Kharkiv,,,,,Vadym Milko,5-4-1,4-1-4-1,Mykhailo Raida,Match Report,,,,,0,0,2024,FK Kolos
+8,2023-10-01,17:00,Premier League,Matchweek 9,Sun,Home,D,0,0,FC Polissya Zhytomyr,,,,,Andriy Bohdanov,3-4-3,4-2-3-1,Kateryna Monzul,Match Report,,,,,0,0,2024,FK Kolos
+9,2023-10-07,17:00,Premier League,Matchweek 10,Sat,Home,D,0,0,Vorskla Poltava,,,,,Vadym Milko,5-3-2,4-1-4-1,Yury Ivanov,Match Report,,,,,0,0,2024,FK Kolos
+10,2023-10-21,19:00,Premier League,Matchweek 11,Sat,Away,W,1,0,FC Oleksandriya,,,,,Vadym Milko,3-4-3,4-1-4-1,Dmytro Kryvushkin,Match Report,,,,,0,0,2024,FK Kolos
+11,2023-10-28,15:00,Premier League,Matchweek 12,Sat,Home,D,1,1,Dynamo Kyiv,,,,,Vadym Milko,3-4-3,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FK Kolos
+12,2023-11-04,13:00,Premier League,Matchweek 13,Sat,Away,D,1,1,FC LNZ Cherkasy,,,,,Andriy Bohdanov,3-4-3,3-4-3,Nazarii Dord,Match Report,,,,,1,1,2024,FK Kolos
+13,2023-11-10,17:00,Premier League,Matchweek 14,Fri,Home,W,2,0,FK Mynai,,,,,Vadym Milko,3-4-3,4-2-3-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Kolos
+14,2023-12-02,13:00,Premier League,Matchweek 16,Sat,Home,D,0,0,Obolon-Brovar Kyiv,,,,,Vadym Milko,3-4-3,3-5-2,Yaroslav Kozyk,Match Report,,,,,0,0,2024,FK Kolos
+15,2023-12-10,15:00,Premier League,Matchweek 17,Sun,Away,L,0,1,Chornomorets Odesa,,,,,Vadym Milko,3-4-3,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,FK Kolos
+16,2024-02-25,13:00,Premier League,Matchweek 18,Sun,Away,W,2,0,Veres Rivne,,,,1194.0,Vadym Milko,4-2-3-1,4-4-2,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,FK Kolos
+17,2024-03-02,18:00,Premier League,Matchweek 19,Sat,Home,L,0,1,Рух,,,,476.0,Andriy Bohdanov,4-2-3-1,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,FK Kolos
+18,2024-03-08,18:00,Premier League,Matchweek 20,Fri,Away,L,2,3,Shakhtar,,,,485.0,Andriy Bohdanov,4-1-4-1,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FK Kolos
+19,2024-03-16,18:00,Premier League,Matchweek 21,Sat,Away,L,0,1,Kryvbas Kryvyi Rih,,,,685.0,Andriy Bohdanov,4-2-3-1,4-2-3-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,FK Kolos
+20,2024-03-31,18:00,Premier League,Matchweek 22,Sun,Home,L,0,2,SK Dnipro-1,,,,494.0,Vadym Milko,4-2-3-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,FK Kolos
+21,2024-04-07,15:30,Premier League,Matchweek 23,Sun,Home,D,1,1,FK Metalist 1925 Kharkiv,,,,600.0,Andriy Bohdanov,4-4-2,4-3-3,Nazarii Dord,Match Report,,,,,0,0,2024,FK Kolos
+22,2024-04-14,18:00,Premier League,Matchweek 24,Sun,Away,L,0,1,FC Polissya Zhytomyr,,,,2000.0,Valeriy Bondarenko,3-4-3,4-1-4-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,FK Kolos
+23,2024-04-20,18:00,Premier League,Matchweek 25,Sat,Away,W,2,0,Vorskla Poltava,,,,525.0,Vadym Milko,4-5-1,4-2-3-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Kolos
+24,2024-04-28,15:30,Premier League,Matchweek 26,Sun,Home,D,0,0,FC Oleksandriya,,,,489.0,Vadym Milko,4-2-3-1,4-1-4-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,FK Kolos
+25,2024-05-05,15:30,Premier League,Matchweek 27,Sun,Away,L,0,5,Dynamo Kyiv,,,,1687.0,Oleksandr Chornomorets,4-2-3-1,4-2-3-1,Denys Shurman,Match Report,,,,,0,0,2024,FK Kolos
+26,2024-05-09,15:30,Premier League,Matchweek 15,Thu,Home,L,0,1,Zorya Luhansk,,,,412.0,Valeriy Bondarenko,4-1-4-1,4-3-3,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Kolos
+27,2024-05-13,15:30,Premier League,Matchweek 28,Mon,Home,L,1,3,FC LNZ Cherkasy,,,,472.0,Valeriy Bondarenko,4-1-4-1,3-4-3,Denys Reznikov,Match Report,,,,,0,0,2024,FK Kolos
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Away,L,2,3,FK Mynai,,,,650.0,Mykyta Burda,4-2-3-1,3-4-3,Viktor Kopievskii,Match Report,,,,,0,0,2024,FK Kolos
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Away,W,1,0,Zorya Luhansk,,,,412.0,Mykyta Burda,4-5-1,4-1-4-1,Mykhailo Raida,Match Report,,,,,0,0,2024,FK Kolos
+0,2023-07-30,15:00,Premier League,Matchweek 1,Sun,Away,W,2,0,FC LNZ Cherkasy,,,,,Illia Putria,4-2-3-1,4-3-3,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Chornomorets Odesa
+1,2023-08-06,17:00,Premier League,Matchweek 2,Sun,Away,L,0,2,FK Kolos,,,,,Illia Putria,4-2-3-1,4-3-3,Dmytro Kryvushkin,Match Report,,,,,0,0,2024,Chornomorets Odesa
+2,2023-08-12,15:00,Premier League,Matchweek 3,Sat,Home,W,2,0,Obolon-Brovar Kyiv,,,,,Illia Putria,4-3-3,4-3-2-1,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Chornomorets Odesa
+3,2023-08-20,17:00,Premier League,Matchweek 4,Sun,Home,W,3,2,Dynamo Kyiv,,,,,Illia Putria,4-4-2,4-4-2,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Chornomorets Odesa
+4,2023-08-27,17:00,Premier League,Matchweek 5,Sun,Away,L,1,2,Vorskla Poltava,,,,,Illia Putria,4-5-1,4-2-3-1,Oleksii Derevinskyi,Match Report,,,,,0,0,2024,Chornomorets Odesa
+5,2023-09-01,17:00,Premier League,Matchweek 6,Fri,Away,L,1,3,Veres Rivne,,,,,Illia Putria,4-1-4-1,4-2-3-1,Denys Shurman,Match Report,,,,,1,1,2024,Chornomorets Odesa
+6,2023-09-16,15:00,Premier League,Matchweek 7,Sat,Home,W,1,0,FC Polissya Zhytomyr,,,,,Illia Putria,4-3-3,4-2-3-1,Kateryna Monzul,Match Report,,,,,0,0,2024,Chornomorets Odesa
+7,2023-09-22,19:00,Premier League,Matchweek 8,Fri,Away,W,5,1,FC Oleksandriya,,,,,Illia Putria,4-2-3-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Chornomorets Odesa
+8,2023-09-30,19:00,Premier League,Matchweek 9,Sat,Home,D,0,0,Zorya Luhansk,,,,,Illia Putria,4-2-3-1,5-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,Chornomorets Odesa
+9,2023-10-08,17:00,Premier League,Matchweek 10,Sun,Away,L,0,1,Kryvbas Kryvyi Rih,,,,,Illia Putria,4-1-4-1,4-1-4-1,Denys Shurman,Match Report,,,,,0,0,2024,Chornomorets Odesa
+10,2023-10-21,15:00,Premier League,Matchweek 11,Sat,Home,W,3,0,FK Mynai,,,,,Illia Putria,4-1-4-1,4-4-2,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,Chornomorets Odesa
+11,2023-11-05,15:00,Premier League,Matchweek 13,Sun,Away,L,1,2,FK Metalist 1925 Kharkiv,,,,,Illia Putria,4-2-3-1,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Chornomorets Odesa
+12,2023-11-12,17:00,Premier League,Matchweek 14,Sun,Home,L,2,3,Рух,,,,,Orest Kuzyk,4-2-3-1,4-1-4-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Chornomorets Odesa
+13,2023-11-27,17:00,Premier League,Matchweek 15,Mon,Away,L,2,5,SK Dnipro-1,,,,,Illia Putria,4-1-4-1,4-1-4-1,Kateryna Monzul,Match Report,,,,,0,0,2024,Chornomorets Odesa
+14,2023-12-03,15:00,Premier League,Matchweek 16,Sun,Home,L,1,3,FC LNZ Cherkasy,,,,,Illia Putria,4-3-3,4-3-3,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Chornomorets Odesa
+15,2023-12-10,15:00,Premier League,Matchweek 17,Sun,Home,W,1,0,FK Kolos,,,,,Illia Putria,4-2-3-1,3-4-3,Dmytro Panchyshyn,Match Report,,,,,1,1,2024,Chornomorets Odesa
+16,2024-02-26,15:30,Premier League,Matchweek 18,Mon,Away,D,1,1,Obolon-Brovar Kyiv,,,,1040.0,Andrii Shtohrin,4-1-4-1,4-4-2,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Chornomorets Odesa
+17,2024-03-02,15:30,Premier League,Matchweek 19,Sat,Away,L,0,1,Dynamo Kyiv,,,,1800.0,Andrii Shtohrin,4-3-3,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Chornomorets Odesa
+18,2024-03-09,13:00,Premier League,Matchweek 20,Sat,Home,L,0,1,Vorskla Poltava,,,,,Andrii Shtohrin,4-3-3,4-2-3-1,Dmytro Evtukhov,Match Report,,,,,0,0,2024,Chornomorets Odesa
+19,2024-03-17,16:30,Premier League,Matchweek 21,Sun,Home,L,0,1,Veres Rivne,,,,,Andrii Shtohrin,4-2-3-1,4-4-2,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Chornomorets Odesa
+20,2024-03-30,15:30,Premier League,Matchweek 22,Sat,Away,W,4,1,FC Polissya Zhytomyr,,,,1384.0,Illia Putria,4-2-3-1,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,Chornomorets Odesa
+21,2024-04-07,13:00,Premier League,Matchweek 23,Sun,Home,W,3,2,FC Oleksandriya,,,,,Illia Putria,4-1-4-1,4-1-4-1,Denys Shurman,Match Report,,,,,1,1,2024,Chornomorets Odesa
+22,2024-04-14,15:30,Premier League,Matchweek 24,Sun,Away,L,0,1,Zorya Luhansk,,,,1060.0,Illia Putria,4-1-4-1,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,Chornomorets Odesa
+23,2024-04-20,15:30,Premier League,Matchweek 25,Sat,Home,L,1,2,Kryvbas Kryvyi Rih,,,,,Illia Putria,4-2-3-1,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Chornomorets Odesa
+24,2024-04-27,13:00,Premier League,Matchweek 26,Sat,Away,L,0,2,FK Mynai,,,,520.0,Illia Putria,4-1-4-1,3-4-3,Denys Reznikov,Match Report,,,,,0,0,2024,Chornomorets Odesa
+25,2024-05-01,13:00,Premier League,Matchweek 12,Wed,Home,L,1,4,Shakhtar,,,,494.0,Illia Putria,4-3-3,4-3-3,Vitalii Romanov,Match Report,,,,,0,0,2024,Chornomorets Odesa
+26,2024-05-05,18:00,Premier League,Matchweek 27,Sun,Away,L,0,3,Shakhtar,,,,526.0,Illia Putria,4-3-3,4-3-3,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Chornomorets Odesa
+27,2024-05-12,15:30,Premier League,Matchweek 28,Sun,Home,W,3,0,FK Metalist 1925 Kharkiv,,,,671.0,Illia Putria,4-1-4-1,4-4-2,Klym Zabroda,Match Report,,,,,0,0,2024,Chornomorets Odesa
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Away,L,0,2,Рух,,,,1150.0,Illia Putria,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Chornomorets Odesa
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Home,L,0,2,SK Dnipro-1,,,,,Illia Putria,4-4-2,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2024,Chornomorets Odesa
+0,2023-07-28,19:00,Premier League,Matchweek 1,Fri,Home,L,0,2,FC Polissya Zhytomyr,,,,,Valeriy Kucherov,4-2-3-1,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2024,Veres Rivne
+1,2023-08-02,17:00,Premier League,Matchweek 2,Wed,Home,D,1,1,Shakhtar,,,,,Andriy Bliznichenko,4-2-3-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Veres Rivne
+2,2023-08-12,17:00,Premier League,Matchweek 3,Sat,Away,L,0,2,FK Kolos,,,,,Andriy Bliznichenko,4-2-3-1,3-4-3,Andrii Kovalenko,Match Report,,,,,0,0,2024,Veres Rivne
+3,2023-08-19,15:00,Premier League,Matchweek 4,Sat,Home,L,1,2,Vorskla Poltava,,,,,Andriy Bliznichenko,4-2-3-1,5-3-2,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Veres Rivne
+4,2023-09-01,17:00,Premier League,Matchweek 6,Fri,Home,W,3,1,Chornomorets Odesa,,,,,Vasyl Kurko,4-2-3-1,4-1-4-1,Denys Shurman,Match Report,,,,,1,1,2024,Veres Rivne
+5,2023-09-17,17:00,Premier League,Matchweek 7,Sun,Away,L,1,2,Kryvbas Kryvyi Rih,,,,,Vasyl Kurko,4-3-3,4-1-4-1,Anastasia Romaniuk,Match Report,,,,,1,1,2024,Veres Rivne
+6,2023-09-22,17:00,Premier League,Matchweek 8,Fri,Away,D,0,0,Obolon-Brovar Kyiv,,,,,Vasyl Kurko,4-1-4-1,4-4-2,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Veres Rivne
+7,2023-09-30,15:00,Premier League,Matchweek 9,Sat,Home,D,0,0,FC LNZ Cherkasy,,,,,Vasyl Kurko,4-4-2,5-4-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Veres Rivne
+8,2023-10-07,13:00,Premier League,Matchweek 10,Sat,Away,L,0,2,SK Dnipro-1,,,,,Vasyl Kurko,4-2-3-1,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Veres Rivne
+9,2023-10-22,13:00,Premier League,Matchweek 11,Sun,Home,L,2,5,Рух,,,,,Dmytro Klyots,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Veres Rivne
+10,2023-10-29,13:00,Premier League,Matchweek 12,Sun,Away,D,0,0,FK Mynai,,,,,Bohdan Kohut,4-3-3,4-2-3-1,Yury Ivanov,Match Report,,,,,0,0,2024,Veres Rivne
+11,2023-11-05,17:00,Premier League,Matchweek 13,Sun,Home,D,2,2,Zorya Luhansk,,,,,Bohdan Kohut,4-2-3-1,4-1-4-1,Denys Reznikov,Match Report,,,,,0,0,2024,Veres Rivne
+12,2023-11-11,17:00,Premier League,Matchweek 14,Sat,Away,L,0,1,FC Oleksandriya,,,,,Bohdan Kohut,4-5-1,4-3-3,Oleksandr Solovyan,Match Report,,,,,0,0,2024,Veres Rivne
+13,2023-11-25,15:00,Premier League,Matchweek 15,Sat,Home,W,4,3,FK Metalist 1925 Kharkiv,,,,,Bohdan Kohut,4-3-3,4-3-3,Vitalii Romanov,Match Report,,,,,1,1,2024,Veres Rivne
+14,2023-12-01,17:00,Premier League,Matchweek 16,Fri,Away,D,1,1,FC Polissya Zhytomyr,,,,,Valeriy Kucherov,4-2-3-1,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,Veres Rivne
+15,2023-12-08,17:00,Premier League,Matchweek 17,Fri,Away,L,0,2,Shakhtar,,,,,Valeriy Kucherov,4-2-3-1,4-3-3,Kateryna Monzul,Match Report,,,,,0,0,2024,Veres Rivne
+16,2024-02-25,13:00,Premier League,Matchweek 18,Sun,Home,L,0,2,FK Kolos,,,,1194.0,Bohdan Kohut,4-4-2,4-2-3-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,Veres Rivne
+17,2024-03-02,15:30,Premier League,Matchweek 19,Sat,Away,L,1,2,Vorskla Poltava,,,,940.0,Bohdan Kohut,4-2-3-1,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2024,Veres Rivne
+18,2024-03-07,18:00,Premier League,Matchweek 20,Thu,Home,D,1,1,Dynamo Kyiv,,,,2487.0,Bohdan Kohut,4-4-2,4-2-3-1,Dmytro Panchyshyn,Match Report,,,,,1,1,2024,Veres Rivne
+19,2024-03-17,16:30,Premier League,Matchweek 21,Sun,Away,W,1,0,Chornomorets Odesa,,,,,Valeriy Kucherov,4-4-2,4-2-3-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,Veres Rivne
+20,2024-03-30,18:00,Premier League,Matchweek 22,Sat,Home,L,0,2,Kryvbas Kryvyi Rih,,,,2328.0,Valeriy Kucherov,4-4-2,4-2-3-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,Veres Rivne
+21,2024-04-06,15:30,Premier League,Matchweek 23,Sat,Home,W,3,0,Obolon-Brovar Kyiv,,,,1698.0,Valeriy Kucherov,4-4-2,5-3-2,Oleksandr Shandor,Match Report,,,,,1,1,2024,Veres Rivne
+22,2024-04-15,15:30,Premier League,Matchweek 24,Mon,Away,L,0,1,FC LNZ Cherkasy,,,,380.0,Bohdan Kohut,4-1-4-1,4-2-3-1,Mykhailo Raida,Match Report,,,,,0,0,2024,Veres Rivne
+23,2024-04-21,13:00,Premier League,Matchweek 25,Sun,Home,D,1,1,SK Dnipro-1,,,,2301.0,Bohdan Kohut,4-4-2,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2024,Veres Rivne
+24,2024-04-27,18:00,Premier League,Matchweek 26,Sat,Away,L,1,3,Рух,,,,1280.0,Bohdan Kohut,4-2-3-1,4-1-4-1,Oleksandr Solovyan,Match Report,,,,,0,0,2024,Veres Rivne
+25,2024-05-01,15:30,Premier League,Matchweek 5,Wed,Away,L,0,3,Dynamo Kyiv,,,,1377.0,Mykola Gajduchyk,4-2-3-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Veres Rivne
+26,2024-05-06,18:00,Premier League,Matchweek 27,Mon,Home,W,3,1,FK Mynai,,,,1910.0,Valeriy Kucherov,4-4-2,3-4-3,Ihor Paskhal,Match Report,,,,,0,1,2024,Veres Rivne
+27,2024-05-13,18:00,Premier League,Matchweek 28,Mon,Away,D,1,1,Zorya Luhansk,,,,183.0,Valeriy Kucherov,4-4-2,4-1-4-1,Dmitriy Kubryak,Match Report,,,,,0,0,2024,Veres Rivne
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Home,D,2,2,FC Oleksandriya,,,,2800.0,Valeriy Kucherov,4-4-2,4-1-4-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Veres Rivne
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Away,W,2,1,FK Metalist 1925 Kharkiv,,,,500.0,Bohdan Kohut,4-2-3-1,4-4-2,Oleksandr Shandor,Match Report,,,,,0,0,2024,Veres Rivne
+0,2023-07-28,17:00,Premier League,Matchweek 1,Fri,Home,D,0,0,FK Kolos,,,,,Oleh Slobodian,4-4-2,4-3-3,Dmytro Bondarenko,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+1,2023-08-04,17:00,Premier League,Matchweek 2,Fri,Home,L,2,4,Dynamo Kyiv,,,,,Oleh Slobodian,5-3-2,4-2-3-1,Yury Ivanov,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+2,2023-08-12,15:00,Premier League,Matchweek 3,Sat,Away,L,0,2,Chornomorets Odesa,,,,,Oleh Slobodian,4-3-2-1,4-3-3,Dmytro Panchyshyn,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+3,2023-08-20,15:00,Premier League,Matchweek 4,Sun,Away,W,2,1,SK Dnipro-1,,,,,Oleh Slobodian,5-3-2,4-2-3-1,Mykola Balakin,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+4,2023-08-28,19:00,Premier League,Matchweek 5,Mon,Home,D,0,0,Kryvbas Kryvyi Rih,,,,,Oleh Slobodian,3-5-2,4-2-3-1,Kateryna Monzul,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+5,2023-09-02,15:00,Premier League,Matchweek 6,Sat,Away,L,0,2,FC Polissya Zhytomyr,,,,,Oleh Slobodian,4-2-3-1,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+6,2023-09-16,17:00,Premier League,Matchweek 7,Sat,Away,L,0,1,Shakhtar,,,,,Ruslan Chernenko,5-3-2,4-1-4-1,Mykola Balakin,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+7,2023-09-22,17:00,Premier League,Matchweek 8,Fri,Home,D,0,0,Veres Rivne,,,,,Oleksandr Rybka,4-4-2,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+8,2023-10-01,13:00,Premier League,Matchweek 9,Sun,Away,W,1,0,FK Mynai,,,,,Serhii Sukhanov,4-4-2,5-3-2,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+9,2023-10-08,13:00,Premier League,Matchweek 10,Sun,Home,W,1,0,FK Metalist 1925 Kharkiv,,,,,Oleksandr Rybka,3-5-2,4-4-2,Dmitriy Kubryak,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+10,2023-10-20,17:00,Premier League,Matchweek 11,Fri,Home,L,2,4,Zorya Luhansk,,,,,Oleksandr Rybka,5-3-2,4-3-3,Ihor Paskhal,Match Report,,,,,1,1,2024,Obolon Brovar Kyiv
+11,2023-10-29,13:00,Premier League,Matchweek 12,Sun,Away,L,0,3,FC LNZ Cherkasy,,,,,Oleh Slobodian,4-4-2,5-3-2,Roman Blavatskiy,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+12,2023-11-06,19:00,Premier League,Matchweek 13,Mon,Away,D,2,2,Рух,,,,,Oleh Slobodian,3-4-3,4-5-1,Dmitriy Kubryak,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+13,2023-11-11,13:00,Premier League,Matchweek 14,Sat,Home,L,0,1,Vorskla Poltava,,,,,Oleh Slobodian,3-5-2,4-3-3,Kristina Kozorog,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+14,2023-12-02,13:00,Premier League,Matchweek 16,Sat,Away,D,0,0,FK Kolos,,,,,Artem Kychak,3-5-2,3-4-3,Yaroslav Kozyk,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+15,2023-12-11,15:00,Premier League,Matchweek 17,Mon,Away,L,0,2,Dynamo Kyiv,,,,,Artem Kychak,3-5-2,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+16,2024-02-26,15:30,Premier League,Matchweek 18,Mon,Home,D,1,1,Chornomorets Odesa,,,,1040.0,Oleh Slobodian,4-4-2,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+17,2024-03-03,13:00,Premier League,Matchweek 19,Sun,Home,L,0,1,SK Dnipro-1,,,,1500.0,Oleh Slobodian,4-4-2,4-2-3-1,Ihor Paskhal,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+18,2024-03-09,18:00,Premier League,Matchweek 20,Sat,Away,L,0,1,Kryvbas Kryvyi Rih,,,,532.0,Oleh Slobodian,3-5-2,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+19,2024-03-16,15:30,Premier League,Matchweek 21,Sat,Home,W,1,0,FC Polissya Zhytomyr,,,,1495.0,Oleh Slobodian,4-4-2,4-1-4-1,Denys Shurman,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+20,2024-03-30,13:00,Premier League,Matchweek 22,Sat,Home,L,0,3,Shakhtar,,,,,Artem Kychak,3-5-2,4-3-3,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+21,2024-04-06,15:30,Premier League,Matchweek 23,Sat,Away,L,0,3,Veres Rivne,,,,1698.0,Oleh Slobodian,5-3-2,4-4-2,Oleksandr Shandor,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+22,2024-04-13,13:00,Premier League,Matchweek 24,Sat,Home,D,1,1,FK Mynai,,,,1012.0,Oleh Slobodian,4-2-3-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+23,2024-04-17,18:00,Premier League,Matchweek 15,Wed,Away,D,2,2,FC Oleksandriya,,,,557.0,Nazarii Fedorivskyi,4-4-2,4-3-3,Yaroslav Kozyk,Match Report,,,,,1,1,2024,Obolon Brovar Kyiv
+24,2024-04-22,15:30,Premier League,Matchweek 25,Mon,Away,D,1,1,FK Metalist 1925 Kharkiv,,,,520.0,Nazarii Fedorivskyi,4-4-2,4-3-3,Vitalii Romanov,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+25,2024-04-28,13:00,Premier League,Matchweek 26,Sun,Away,D,0,0,Zorya Luhansk,,,,,Nazarii Fedorivskyi,4-4-2,4-2-3-1,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+26,2024-05-04,15:30,Premier League,Matchweek 27,Sat,Home,W,1,0,FC LNZ Cherkasy,,,,697.0,Ihor Medynskyi,4-4-2,5-3-2,Dmitriy Kubryak,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+27,2024-05-11,15:30,Premier League,Matchweek 28,Sat,Home,D,0,0,Рух,,,,700.0,Ihor Medynskyi,4-4-2,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Away,L,1,3,Vorskla Poltava,,,,395.0,Ihor Medynskyi,4-4-2,4-2-3-1,Andrii Kovalenko,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Home,L,0,3,FC Oleksandriya,,,,900.0,Ihor Medynskyi,4-4-2,4-1-4-1,Vitalii Romanov,Match Report,,,,,0,0,2024,Obolon Brovar Kyiv
+0,2023-07-30,17:00,Premier League,Matchweek 1,Sun,Away,L,1,4,Dynamo Kyiv,,,,,Oleksandr Bandura,5-4-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FK Mynai
+1,2023-08-05,15:00,Premier League,Matchweek 2,Sat,Home,L,0,3,FC LNZ Cherkasy,,,,,Dmytro Nyemchaninov,5-4-1,4-1-4-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Mynai
+2,2023-08-13,13:00,Premier League,Matchweek 3,Sun,Home,D,1,1,SK Dnipro-1,,,,,Oleksandr Bandura,5-4-1,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,FK Mynai
+3,2023-08-19,17:00,Premier League,Matchweek 4,Sat,Away,L,0,1,FK Metalist 1925 Kharkiv,,,,,Oleksandr Bandura,4-2-3-1,4-3-3,Klym Zabroda,Match Report,,,,,0,0,2024,FK Mynai
+4,2023-08-27,13:00,Premier League,Matchweek 5,Sun,Home,D,1,1,Zorya Luhansk,,,,,Oleksandr Bandura,4-1-4-1,5-4-1,Oleksandr Afanasiev,Match Report,,,,,1,1,2024,FK Mynai
+5,2023-09-02,13:00,Premier League,Matchweek 6,Sat,Home,L,1,4,Shakhtar,,,,,Oleksandr Bandura,5-4-1,4-5-1,Dmytro Bondarenko,Match Report,,,,,0,0,2024,FK Mynai
+6,2023-09-16,19:00,Premier League,Matchweek 7,Sat,Away,D,1,1,FC Oleksandriya,,,,,Oleksandr Bandura,5-4-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,FK Mynai
+7,2023-09-23,15:00,Premier League,Matchweek 8,Sat,Away,L,1,2,FC Polissya Zhytomyr,,,,,Oleksandr Bandura,4-4-2,4-2-3-1,Dmytro Evtukhov,Match Report,,,,,0,0,2024,FK Mynai
+8,2023-10-01,13:00,Premier League,Matchweek 9,Sun,Home,L,0,1,Obolon-Brovar Kyiv,,,,,Oleksandr Bandura,5-3-2,4-4-2,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,FK Mynai
+9,2023-10-08,15:00,Premier League,Matchweek 10,Sun,Away,D,0,0,Рух,,,,,Oleksandr Bandura,4-1-4-1,4-1-4-1,Oleksandr Solovyan,Match Report,,,,,0,0,2024,FK Mynai
+10,2023-10-21,15:00,Premier League,Matchweek 11,Sat,Away,L,0,3,Chornomorets Odesa,,,,,Oleksandr Bandura,4-4-2,4-1-4-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,FK Mynai
+11,2023-10-29,13:00,Premier League,Matchweek 12,Sun,Home,D,0,0,Veres Rivne,,,,,Oleksandr Bandura,4-2-3-1,4-3-3,Yury Ivanov,Match Report,,,,,0,0,2024,FK Mynai
+12,2023-11-05,13:00,Premier League,Matchweek 13,Sun,Home,D,0,0,Vorskla Poltava,,,,,Oleksandr Bandura,4-2-3-1,4-4-1-1,Serhii Zadiran,Match Report,,,,,0,0,2024,FK Mynai
+13,2023-11-10,17:00,Premier League,Matchweek 14,Fri,Away,L,0,2,FK Kolos,,,,,Oleksandr Bandura,4-2-3-1,3-4-3,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Mynai
+14,2023-11-25,13:00,Premier League,Matchweek 15,Sat,Home,L,0,1,Kryvbas Kryvyi Rih,,,,,Oleksandr Bandura,4-5-1,4-4-2,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,FK Mynai
+15,2024-02-25,13:00,Premier League,Matchweek 18,Sun,Away,D,1,1,SK Dnipro-1,,,,,Dmytro Nyemchaninov,5-3-2,4-2-3-1,Oleksandr Kalyonov,Match Report,,,,,0,1,2024,FK Mynai
+16,2024-03-02,13:00,Premier League,Matchweek 19,Sat,Home,W,2,0,FK Metalist 1925 Kharkiv,,,,332.0,Dmytro Nyemchaninov,5-3-2,4-3-3,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Mynai
+17,2024-03-07,15:30,Premier League,Matchweek 20,Thu,Away,L,0,2,Zorya Luhansk,,,,,Dmytro Nyemchaninov,5-3-2,4-2-3-1,Dmytro Bondarenko,Match Report,,,,,0,0,2024,FK Mynai
+18,2024-03-12,18:00,Premier League,Matchweek 21,Tue,Away,L,0,2,Shakhtar,,,,410.0,Serhiy Petko,5-3-2,4-3-3,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,FK Mynai
+19,2024-03-23,15:30,Premier League,Matchweek 17,Sat,Away,W,2,1,FC LNZ Cherkasy,,,,400.0,Serhiy Petko,3-4-3,3-5-2,Dmitriy Kubryak,Match Report,,,,,0,0,2024,FK Mynai
+20,2024-03-31,13:00,Premier League,Matchweek 22,Sun,Home,D,2,2,FC Oleksandriya,,,,680.0,Serhiy Petko,5-4-1,4-2-3-1,Dmytro Kryvushkin,Match Report,,,,,0,0,2024,FK Mynai
+21,2024-04-08,13:00,Premier League,Matchweek 23,Mon,Home,L,2,3,FC Polissya Zhytomyr,,,,700.0,Dmytro Nyemchaninov,5-4-1,4-1-4-1,Ihor Paskhal,Match Report,,,,,0,0,2024,FK Mynai
+22,2024-04-13,13:00,Premier League,Matchweek 24,Sat,Away,D,1,1,Obolon-Brovar Kyiv,,,,1012.0,Serhiy Petko,4-2-3-1,4-2-3-1,Maksim Kozyryatskiy,Match Report,,,,,1,2,2024,FK Mynai
+23,2024-04-17,15:30,Premier League,Matchweek 16,Wed,Home,L,1,3,Dynamo Kyiv,,,,1800.0,Oleksandr Bandura,4-2-3-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,FK Mynai
+24,2024-04-22,13:00,Premier League,Matchweek 25,Mon,Home,D,1,1,Рух,,,,250.0,Serhiy Petko,5-4-1,4-3-3,Dmytro Evtukhov,Match Report,,,,,0,0,2024,FK Mynai
+25,2024-04-27,13:00,Premier League,Matchweek 26,Sat,Home,W,2,0,Chornomorets Odesa,,,,520.0,Serhiy Petko,3-4-3,4-1-4-1,Denys Reznikov,Match Report,,,,,0,0,2024,FK Mynai
+26,2024-05-06,18:00,Premier League,Matchweek 27,Mon,Away,L,1,3,Veres Rivne,,,,1910.0,Serhiy Petko,3-4-3,4-4-2,Ihor Paskhal,Match Report,,,,,0,0,2024,FK Mynai
+27,2024-05-11,13:00,Premier League,Matchweek 28,Sat,Away,W,3,2,Vorskla Poltava,,,,570.0,Serhiy Petko,3-4-3,4-4-2,Nazarii Dord,Match Report,,,,,1,1,2024,FK Mynai
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Home,W,3,2,FK Kolos,,,,650.0,Vadym Vitenchuk,3-4-3,4-2-3-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,FK Mynai
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Away,L,0,3,Kryvbas Kryvyi Rih,,,,600.0,Serhiy Petko,5-3-2,4-2-3-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Mynai
+0,2023-07-29,17:00,Premier League,Matchweek 1,Sat,Home,L,1,2,Shakhtar,,,,,Yevhen Tkachuk,4-1-4-1,4-2-3-1,Vitalii Romanov,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+1,2023-08-05,19:00,Premier League,Matchweek 2,Sat,Away,L,0,1,FC Oleksandriya,,,,,Artem Habelok,4-3-3,4-2-3-1,Volodymyr Novohatnіj,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+2,2023-08-19,17:00,Premier League,Matchweek 4,Sat,Home,W,1,0,FK Mynai,,,,,Artem Habelok,4-3-3,4-2-3-1,Klym Zabroda,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+3,2023-08-26,15:00,Premier League,Matchweek 5,Sat,Away,W,1,0,FC LNZ Cherkasy,,,,,Artem Habelok,4-1-4-1,4-2-3-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+4,2023-09-03,19:00,Premier League,Matchweek 6,Sun,Away,D,1,1,Рух,,,,,Artem Habelok,4-1-4-1,4-1-4-1,Serhii Zadiran,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+5,2023-09-15,18:30,Premier League,Matchweek 7,Fri,Home,W,2,1,Zorya Luhansk,,,,,Artem Habelok,4-1-4-1,4-4-2,Klym Zabroda,Match Report,,,,,1,1,2024,FK Metalist 1925 Kharkiv
+6,2023-09-24,17:00,Premier League,Matchweek 8,Sun,Home,D,0,0,FK Kolos,,,,,Artem Habelok,4-1-4-1,5-4-1,Mykhailo Raida,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+7,2023-10-02,17:00,Premier League,Matchweek 9,Mon,Away,L,0,1,SK Dnipro-1,,,,,Artem Habelok,4-2-3-1,4-2-3-1,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+8,2023-10-08,13:00,Premier League,Matchweek 10,Sun,Away,L,0,1,Obolon-Brovar Kyiv,,,,,Artem Habelok,4-4-2,3-5-2,Dmitriy Kubryak,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+9,2023-10-20,19:00,Premier League,Matchweek 11,Fri,Home,L,1,3,Kryvbas Kryvyi Rih,,,,,Artem Habelok,4-1-4-1,4-1-4-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+10,2023-10-29,15:00,Premier League,Matchweek 12,Sun,Away,D,2,2,Vorskla Poltava,,,,,Artem Habelok,4-1-4-1,4-2-3-1,Oleksandr Kalyonov,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+11,2023-11-05,15:00,Premier League,Matchweek 13,Sun,Home,W,2,1,Chornomorets Odesa,,,,,Yaroslav Martynyuk,4-1-4-1,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+12,2023-11-11,15:00,Premier League,Matchweek 14,Sat,Away,L,1,2,FC Polissya Zhytomyr,,,,,Yaroslav Martynyuk,4-3-3,4-1-4-1,Yaroslav Kozyk,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+13,2023-11-25,15:00,Premier League,Matchweek 15,Sat,Away,L,3,4,Veres Rivne,,,,,Artem Habelok,4-3-3,4-3-3,Vitalii Romanov,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+14,2023-12-03,17:00,Premier League,Matchweek 16,Sun,Away,L,0,2,Shakhtar,,,,,Artem Habelok,4-1-4-1,4-1-4-1,Maksim Kozyryatskiy,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+15,2023-12-07,15:00,Premier League,Matchweek 3,Thu,Away,L,2,4,Dynamo Kyiv,,,,,Artem Habelok,4-1-4-1,4-1-4-1,Oleksandr Omelchenko,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+16,2023-12-11,14:00,Premier League,Matchweek 17,Mon,Home,L,0,3,FC Oleksandriya,,,,,Artem Habelok,4-1-4-1,4-2-3-1,Oleksandr Solovyan,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+17,2024-02-25,15:30,Premier League,Matchweek 18,Sun,Home,L,2,4,Dynamo Kyiv,,,,,Artem Habelok,4-3-3,5-4-1,Viktor Kopievskii,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+18,2024-03-02,13:00,Premier League,Matchweek 19,Sat,Away,L,0,2,FK Mynai,,,,332.0,Artem Habelok,4-3-3,5-3-2,Roman Blavatskiy,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+19,2024-03-08,15:30,Premier League,Matchweek 20,Fri,Home,D,1,1,FC LNZ Cherkasy,,,,263.0,Artem Habelok,4-1-3-2,4-3-3,Serhii Zadiran,Match Report,,,,,1,1,2024,FK Metalist 1925 Kharkiv
+20,2024-03-16,13:00,Premier League,Matchweek 21,Sat,Home,L,1,4,Рух,,,,,Artem Habelok,4-3-3,4-5-1,Klym Zabroda,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+21,2024-03-31,15:30,Premier League,Matchweek 22,Sun,Away,L,1,2,Zorya Luhansk,,,,,Artem Habelok,4-3-3,4-2-3-1,Denys Reznikov,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+22,2024-04-07,15:30,Premier League,Matchweek 23,Sun,Away,D,1,1,FK Kolos,,,,600.0,Artem Habelok,4-3-3,4-4-2,Nazarii Dord,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+23,2024-04-15,18:00,Premier League,Matchweek 24,Mon,Home,D,1,1,SK Dnipro-1,,,,,Artem Habelok,4-3-3,4-1-4-1,Anastasia Romaniuk,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+24,2024-04-22,15:30,Premier League,Matchweek 25,Mon,Home,D,1,1,Obolon-Brovar Kyiv,,,,520.0,Artem Habelok,4-3-3,4-4-2,Vitalii Romanov,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+25,2024-04-28,18:00,Premier League,Matchweek 26,Sun,Away,L,0,3,Kryvbas Kryvyi Rih,,,,630.0,Maksym Imerekov,4-3-3,4-2-3-1,Oleksandr Shandor,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+26,2024-05-04,18:00,Premier League,Matchweek 27,Sat,Home,W,3,2,Vorskla Poltava,,,,315.0,Artem Habelok,4-4-2,4-4-2,Mykhailo Raida,Match Report,,,,,1,1,2024,FK Metalist 1925 Kharkiv
+27,2024-05-12,15:30,Premier League,Matchweek 28,Sun,Away,L,0,3,Chornomorets Odesa,,,,671.0,Artem Habelok,4-4-2,4-1-4-1,Klym Zabroda,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+28,2024-05-19,15:30,Premier League,Matchweek 29,Sun,Home,D,3,3,FC Polissya Zhytomyr,,,,477.0,Artem Habelok,4-4-2,4-3-3,Oleksandr Afanasiev,Match Report,,,,,0,0,2024,FK Metalist 1925 Kharkiv
+29,2024-05-25,15:30,Premier League,Matchweek 30,Sat,Home,L,1,2,Veres Rivne,,,,500.0,Artem Habelok,4-4-2,4-2-3-1,Oleksandr Shandor,Match Report,,,,,1,1,2024,FK Metalist 1925 Kharkiv
